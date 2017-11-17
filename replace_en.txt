@@ -1,0 +1,843 @@
+27	1	0	0	0	[무역] 긴급한 배달 임무	[Trade - Beginner 1] Urgent Delivery Mission	Current
+27	1	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Home Medicine Brewer to Lara in Heidel, Tree Spirit Seed to Lebyos in Heidel, Iliya Salt Pot to David Finto in Velia.	Current
+27	1	0	0	2	하이델의 라라에게 가정용 약탕기 배달;하이델의 러비오스에게 나무 정령의 씨앗 배달;벨리아의 다비드 핀토에게 일리야산 소금 항아리 배달;	Deliver the Home Medicine Brewer to Lara in Heidel;Deliver the Tree Spirit Seed to Lebyos in Heidel;Deliver the Iliya Salt Pot to David Finto in Velia;	Current
+27	2	0	0	0	[무역] 긴급한 배달 임무	[Trade - Beginner 1] Urgent Delivery Mission	Current
+27	2	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Wishing Kite to Rubin in Calpheon, Freharau's Dry Mud to Kaia Feresio in Calpheon, Shai Traditional Hat to Izella in Florin.	Current
+27	2	0	0	2	칼페온의 루빈에게 소망 방패연 배달;칼페온의 카이아 페레시오에게 프레하라우의 마른 진흙 배달;플로린의 이젤라에게 샤이족 전통모자 배달;	Deliver the Wishing Kite to Rubin in Calpheon;Deliver Freharau’s Dry Mud to Kaia Feresio in Calpheon;Deliver the Shai Traditional Hat to Izella in Florin;	Current
+27	3	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 8] Urgent Delivery Mission	Current
+27	3	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Bartali's Odd Adventure to Balker Batian in Calpheon, Fresh Fogan Egg to Melissa Brady in Heidel, Heidel Knights Martial Arts Manual to Lilvanos in Keplan.	Current
+27	3	0	0	2	칼페온의 볼커 바시안에게 바탈리의 기묘한 모험 배달;하이델의 멜리사 브레디에게 신선한 포건 알 배달;케플란의 릴바노스에게 하이델 기사 무술 교본 배달;	Deliver Bartali's Odd Adventure to Balker Batian in Calpheon;Deliver the Fresh Fogan Egg to Melissa Brady in Heidel;Deliver Heidel Knights Martial Arts Manual to Lilvanos in Keplan;	Current
+27	4	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 2] Urgent Delivery Mission	Current
+27	4	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Olvia Grape Jam to Amerigo in Heidel, Ogre Excrement to Lilvanos in Keplan, Velia Wine to Fredelles Herba in Calpheon.	Current
+27	4	0	0	2	하이델의 아메리고에게 올비아산 포도잼 배달;케플란의 릴바노스에게 오우거의 분비물 배달;칼페온의 프레델레스 허바에게 벨리아 포도주 배달;	Deliver the Olvia Grape Jam to Amerigo in Heidel;Deliver the Ogre Excrement to Lilvanos in Keplan;Deliver the Velia Wine to Fredelles Herba in Calpheon;	Current
+27	5	0	0	0	[무역] 긴급한 배달 임무	[Trade - Beginner 1] Urgent Delivery Mission	Current
+27	5	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Iliya Salt Pot to Olivia in Heidel, Heidel Knights Martial Arts Manual to Psebor in Calpheon.	Current
+27	5	0	0	2	하이델의 올리비아에게 일리야산 소금 항아리 배달;칼페온의 프세보르에게 하이델 기사 무술 교본 배달;	Deliver the Iliya Salt Pot to Olivia in Heidel;Deliver the Heidel Knights Martial Arts Manual to Psebor in Calpheon;	Current
+27	6	0	0	0	[무역] 긴급한 배달 임무	[Trade - Beginner 1] Urgent Delivery Mission	Current
+27	6	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Freharau's Dry Mud to Gabril in Calpheon, Heidel First Aid Kit to Hessenvale at the Western Guard Camp.	Current
+27	6	0	0	2	칼페온의 게이브릴에게 프레하라우의 마른 진흙 배달;서부 경비 캠프의 헤센베일에게 하이델 구급 상자 배달;	Deliver Freharau’s Dry Mud to Gabril in Calpheon;Deliver the Heidel First Aid Kit to Hessenvale at the Western Guard Camp;	Current
+27	7	0	0	0	[무역] 긴급한 배달 임무	[Trade - Beginner 1] Urgent Delivery Mission	Current
+27	7	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Deliver Heidel First Aid Kit to Feinia at the Western Guard Camp, Imp's Red Ore to Kardash in Glish, Shai Traditional Hat to Herar in Florin.	Current
+27	7	0	0	2	서부 경비 캠프의 페이니아에게 하이델 구급 상자 배달;글리시의 카다슈에게 임프의 붉은 광석 배달;플로린의 헤르아르에게 샤이족 전통모자 배달;	Deliver the Heidel First Aid Kit to Feinia at the Western Guard Camp;Deliver the Imp's Red Ore to Kardash in Glish;Deliver the Shai Traditional Hat to Herar in Florin;	Current
+27	8	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 10] Urgent Delivery Mission	Current
+27	8	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Home Medicine Brewer to Izella in Florin, Love Potion No. 6 to Geoffrey Erne in Calpheon, Imp's Red Ore to Kardash in Glish.	Current
+27	8	0	0	2	플로린의 이젤라에게 가정용 약탕기 배달;칼페온의 제프리 에른에게 사랑의 묘약 No.6 배달;글리시의 카다슈에게 임프의 붉은 광석 배달;	Deliver the Home Medicine Brewer to Izella in Florin;Deliver Love Potion No. 6 to Geoffrey Erne in Calpheon;Deliver the Imp's Red Ore to Kardash in Glish;	Current
+27	9	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 7] Urgent Delivery Mission	Current
+27	9	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Bartali's Odd Adventure to Amaranto in Glish, Lebyos' Leather Shoes to Laniero Lucci in Keplan, Glish Mud Brick to Angela in Calpheon.	Current
+27	9	0	0	2	글리시의 아마란토에게 바탈리의 기묘한 모험 배달;케플란의 라니에로 루치에게 러비오스의 가죽 신발 배달;칼페온의 안젤라에게 글리시 진흙 벽돌 배달;	Deliver Bartali's Odd Adventure to Amaranto in Glish;Deliver Lebyos' Leather Shoes to Laniero Lucci in Keplan;Deliver the Glish Mud Brick to Angela in Calpheon;	Current
+27	10	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 7] Urgent Delivery Mission	Current
+27	10	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Fogan Crescent Spear to Ronatz in Calpheon, Iliya Salt Pot to Fredelles Herba in Calpheon, Velian Crystal Glass to Irellio Lucci in Keplan.	Current
+27	10	0	0	2	칼페온의 로나츠에게 포건족 반월창 배달;칼페온의 프레델레스 허바에게 일리야산 소금 항아리 배달;케플란의 이렐리오 루치에게 벨리아산 크리스탈 유리 배달;	Deliver the Fogan Crescent Spear to Ronatz in Calpheon;Deliver the Iliya Salt Pot to Fredelles Herba in Calpheon;Deliver the Velian Crystal Glass to Irellio Lucci in Keplan;	Current
+27	11	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 7] Urgent Delivery Mission	Current
+27	11	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Velian Crystal Glass to Seilane in Glish, Shai Traditional Hat to Stella in Florin, Lebyos' Leather Shoes to Christine Cessory in Keplan.	Current
+27	11	0	0	2	글리시의 세이레인에게 벨리아산 크리스탈 유리 배달;플로린의 스텔라에게 샤이족 전통모자 배달;케플란의 크리스틴 세서리에게 러비오스의 가죽 신발 배달;	Deliver the Velian Crystal Glass to Seilane in Glish;Deliver the Shai Traditional Hat to Stella in Florin;Deliver Lebyos' Leather Shoes to Christine Cessory in Keplan;	Current
+27	12	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 4] Urgent Delivery Mission	Current
+27	12	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Fox Fur to the Spotty Troll in Trent, Bartali's Odd Adventure to Phyria in Epheria, Ogre Excrement to Lilvanos in Keplan.	Current
+27	12	0	0	2	트렌트의 점박이 트롤에게 여우 모피 배달;에페리아의 피리아에게 바탈리의 기묘한 모험 배달;케플란의 릴바노스에게 오우거의 분비물 배달;	Deliver Fox Fur to the Spotty Troll in Trent;Deliver Bartali's Odd Adventure to Phyria in Epheria;Deliver the Ogre Excrement to Lilvanos in Keplan;	Current
+27	13	0	0	0	[무역] 긴급한 배달 임무	[Trade - Apprentice 2] Urgent Delivery Mission	Current
+27	13	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Emergency Medicine Set to Alchem in Calpheon, Imp's Red Ore to Irellio Lucci in Keplan, Iliya Salt Pot to Olivia in Heidel.	Current
+27	13	0	0	2	칼페온의 알쳄에게 비상 약재 세트 배달;케플란의 이렐리오 루치에게 임프의 붉은 광석 배달;하이델의 올리비아에게 일리야산 소금 항아리 배달;	Deliver the Emergency Medicine Set to Alchem in Calpheon;Deliver the Imp's Red Ore to Irellio Lucci in Keplan;Deliver the Iliya Salt Pot to Olivia in Heidel;	Current
+27	14	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 9] Urgent Delivery Mission	Current
+27	14	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Lucky Fish Statue to Ahr in Calpheon, Dragon Statue of Oyun to Lilvayne in Calpheon, Freharau's Dry Mud to Baori on Iliya Island, Fogan Crescent Spear to Andria in Keplan.	Current
+27	14	0	0	2	칼페온의 아르에게 행운의 물고기 조각상 배달;칼페온의 릴베인에게 오윤의 용 조각상 배달;일리야섬의 바오리에게 프레하라우의 마른 진흙 배달;케플란의 안드리아에게 포건족 반월창 배달;	Deliver the Lucky Fish Statue to Ahr in Calpheon;Deliver the Dragon Statue of Oyun to Lilvayne in Calpheon;Deliver Freharau’s Dry Mud to Baori on Iliya Island;Deliver the Fogan Crescent Spear to Andria in Keplan;	Current
+27	15	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 7] Urgent Delivery Mission	Current
+27	15	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Teviral Scented Candle to Ornella in Heidel, Calpheon Slum Aid to Ottavio Ferre in Velia, Fogan Skin Oil to Bevel in Trent, Madame Pillaf's Ribbon Set to Lavientia Batian in Calpheon.	Current
+27	15	0	0	2	하이델의 오르넬라에게 테비랄 향초 배달;벨리아의 오타비오 페레에게 칼페온 빈민가 구호품 배달;트렌트의 베벨에게 포건 피부 기름 배달;칼페온의 라비엔샤 바시안에게 마담 필라프의 리본 세트 배달;	Deliver the Teviral Scented Candle to Ornella in Heidel;Deliver the Calpheon Slum Aid to Ottavio Ferre in Velia;Deliver the Fogan Skin Oil to Bevel in Trent;Deliver Madame Pillaf's Ribbon Set to Lavientia Batian in Calpheon;	Current
+27	16	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 4] Urgent Delivery Mission	Current
+27	16	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Alchemist's Red Reagent to Geranoa in Calpheon, Fox Fur to the Spotted Troll in Trent, Pure Iron Ore to Shurd in Keplan, Dried Fogan Hind Leg to Baori on Iliya Island.	Current
+27	16	0	0	2	칼페온의 게라노아에게 연금술사의 붉은 시약 배달;트렌트의 점박이 트롤에게 여우 모피 배달;케플란의 슈르드에게 순도 높은 철광석 배달;일리야섬의 바오리에게 말린 포건 뒷다리 배달;	Deliver the Alchemist's Red Reagent to Geranoa in Calpheon;Deliver the Fox Fur to the Spotted Troll in Trent;Deliver the Pure Iron Ore to Shurd in Keplan;Deliver the Dried Fogan Hind Leg to Baori on Iliya Island;	Current
+27	17	0	0	0	[무역] 긴급한 배달 임무	[Trade - Professional 5] Urgent Delivery Mission	Current
+27	17	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Emperor's Portrait to Philaberto Falasi in Epheria, Aurobyl Fabric to Zaaira in Velia, Pack of Old Books to Enrico Mancini in Heidel, Iliya Salt Pot to Deborah in Glish.	Current
+27	17	0	0	2	에페리아의 필라베르토 팔라시에게 황제의 초상화 배달;벨리아의 질다에게 오로빌 원단 배달;하이델의 엔리코 만시니에게 고서 꾸러미 배달;글리시의 데보라에게 일리야산 소금 항아리 배달;	Deliver the Emperor’s Portrait to Philaberto Falasi in Epheria;Deliver the Aurobyl Fabric to Zaaira in Velia;Deliver the Pack of Old Books to Enrico Mancini in Heidel;Deliver the Iliya Salt Pot to Deborah in Glish;	Current
+27	18	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 7] Urgent Delivery Mission	Current
+27	18	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Chimera's Black Fragment to Srulk in Epheria, Teviral Scented Candle to Eileen in Velia, Spirit of Earth Sculpture to Ornella in Heidel, Velian Crystal Glass to Bianstimi in Calpheon.	Current
+27	18	0	0	2	에페리아의 스럴크에게 키메라의 검은 파편 배달;벨리아의 에일린에게 테비랄 향초 배달;하이델의 오르넬라에게 대지의 정령 조각상 배달;칼페온의 비안스티미에게 벨리아산 크리스탈 유리 배달;	Deliver the Chimera's Black Fragment to Srulk in Epehria;Deliver the Teviral Scented Candle to Eileen in Velia;Deliver the Spirit of Earth Sculpture to Ornella in Heidel;Deliver the Velian Crystal Glass to Bianstimi in Calpheon;	Current
+27	19	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 8] Urgent Delivery Mission	Current
+27	19	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문가 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Fogan Skin Oil to Mayeri in Trent, Fresh Fogan Egg to Phyria in Epheria, Wishing Kite to Lillia on Iliya Island, Fogan Crescent Spear to Ronatz in Calpheon.	Current
+27	19	0	0	2	트렌트의 마에리에게 포건 피부 기름 배달;에페리아의 피리아에게 신선한 포건 알 배달;일리야섬의 릴리아에게 소망 방패연 배달;칼페온의 로나츠에게 포건족 반월창 배달;	Deliver the Fogan Skin Oil to Mayeri in Trent;Deliver the Fresh Fogan Egg to Phyria in Epheria;Deliver the Wishing Kite to Lillia on Iliya Island;Deliver the Fogan Crescent Spear to Ronatz in Calpheon;	Current
+27	20	0	0	0	[무역] 긴급한 배달 임무	[Trade - Professional 7] Urgent Delivery Mission	Current
+27	20	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Magic Binding Oak Branch to Stella in Florin, Bush Spider Poison Sac to Laniero Lucci in Keplan, Iliya Salt Pot to Augusta in Trent, Teviral Scented Candle to Clorince in Velia.	Current
+27	20	0	0	2	플로린의 스텔라에게 마력 깃들 참나무 가지 배달;케플란의 라니에로 루치에게 풀숲 거미 독낭 배달;트렌트의 아우구스타에게 일리야산 소금 항아리 배달;벨리아의 클로린스에게 테비랄 향초 배달;	Deliver the Magic Binding Oak Branch to Stella in Florin;Deliver the Bush Spider Poison Sac to Laniero Lucci in Keplan;Deliver the Iliya Salt Pot to Augusta in Trent;Deliver the Teviral Scented Candle to Clorince in Velia;	Current
+27	21	0	0	0	[무역] 긴급한 배달 임무	[Trade - Artisan 9] Urgent Delivery Mission	Current
+27	21	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Valkyrie Painkiller to Isobelle Encarotia in Heidel, Valentine Salve to Baori on Iliya Island, Pearl Necklace to Amaranto in Glish, Pure Iron Ore to Andria in Keplan.	Current
+27	21	0	0	2	하이델의 이소벨 엔카로샤에게 발키리 진통제 배달;일리야섬의 바오리에게 발렌타인 고약 배달;글리시의 아마란토에게 진주 목걸이 배달;케플란의 안드리아에게 순도 높은 철광석 배달;	Deliver the Valkyrie Painkiller to Isobelle Encarotia in Heidel;Deliver the Valentine Salve to Baori on Iliya Island;Deliver the Pearl Necklace to Amaranto in Glish;Deliver the Pure Iron Ore to Andria in Keplan;	Current
+27	22	0	0	0	[무역] 긴급한 배달 임무	[Trade - Professional 9] Urgent Delivery Mission	Current
+27	22	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Spider Web Vest to Shurd in Keplan, Olvia Mountain Cheese to Fredelles Herba in Calpheon, Velian Plank to Mayeri in Trent, Lucky Fish Statue to Ario in Calpheon.	Current
+27	22	0	0	2	케플란의 슈르드에게 거미줄 조끼 배달;칼페온의 프레델레스 허바에게 올비아산 마운틴 치즈 배달;트렌트의 마에리에게 벨리아산 목판 배달;칼페온의 아리오에게  행운의 물고기 조각상 배달;	Deliver the Spider Web Vest to Shurd in Keplan;Deliver the Olvia Mountain Cheese to Fredelles Herba in Calpheon;Deliver the Velian Plank to Mayeri in Trent;Deliver the Lucky Fish Statue to Ario in Calpheon;	Current
+27	23	0	0	0	[무역] 긴급한 배달 임무	[Trade - Professional 6] Urgent Delivery Mission	Current
+27	23	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Poisoned Arrowhead to Lilvanos in Keplan, Pallet Moving Set to Baori on Iliya Island, Pack of Old Books to Enrico Mancini in Heidel, Nymph Costume Set to Kanna in Glish.	Current
+27	23	0	0	2	케플란의 릴바노스에게 독 화살촉 배달;일리야섬의 바오리에게 팔레트 운반 세트 배달;하이델의 엔리코 만시니에게 고서 꾸러미 배달;글리시의 칸나에게 요정 의상 세트 배달;	Deliver the Poisoned Arrowhead to Lilvanos in Keplan;Deliver the Pallet Moving Set to Baori on Iliya Island;Deliver the Pack of Old Books to Enrico Mancini in Heidel;Deliver the Nymph Costume Set to Kanna in Glish;	Current
+27	24	0	0	0	[무역] 긴급한 배달 임무	[Trade - Professional 2] Urgent Delivery Mission	Current
+27	24	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Confiscated Naga Weapon to Psebor in Calpheon, Lebyos' Leather Shoes to the Spotty Troll in Trent, Packaged Pig Barbecue to Olivia in Heidel, Fish Sausage to Deborah in Glish.	Current
+27	24	0	0	2	칼페온의 프세보르에게 압수한 나가 무기 배달;트렌트의 점박이 트롤에게 러비오스의 가죽 신발 배달;하이델의 올리비아에게 포장된 통돼지 바비큐 배달;글리시의 데보라에게 생선 소시지 배달;	Deliver the Confiscated Naga Weapon to Psebor in Calpheon;Deliver Lebyos' Leather Shoes to the Spotty Troll in Trent;Deliver the Packaged Pig Barbecue to Olivia in Heidel;Deliver the Fish Sausage to Deborah in Glish;	Current
+27	25	0	0	0	[무역] 긴급한 배달 임무	[Trade - Skilled 9] Urgent Delivery Mission	Current
+27	25	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 이하의 멤버가 필요합니다.<PAOldColor>	Deliver Dragon Statue of Oyun to Srulk in Epheria, Fresh Fogan Egg to Lilvanos in Keplan, Cutting-Edge Dwarf Tool Pack to Mayeri in Trent, Black Marsh Peat to Grandus in Calpheon.	Current
+27	25	0	0	2	에페리아의 스럴크에게 오윤의 용 조각상 배달;케플란의 릴바노스에게 신선한 포건 알 배달;트렌트의 마에리에게 드워프의 최신 공구 꾸러미 배달;칼페온의 그란더스에게 검은 습지 토탄 배달;	Deliver the Dragon Statue of Oyun to Srulk in Epheria;Deliver the Fresh Fogan Egg to Lilvanos in Keplan;Deliver the Cutting-Edge Dwarf Tool Pack to Mayeri in Trent;Deliver the Black Marsh Peat to Grandus in Calpheon;	Current
+27	31	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	31	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fine Grained Ash Plywood, Golden Copper Ingot and Fresh Chicken Meat to Rosa Kloko in Velia, deliver Balenos' Specialties to Roig Mills in Heidel.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	31	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Consign Fine Grained Ash Plywood to Rosa Kloko in Velia;Consign Golden Copper Ingot to Rosa Kloko in Velia;Consign Fresh Chicken Meat to Rosa Kloko in Velia;Deliver Balenos’s Specialties to Roig Mills in Heidel;	Current
+27	32	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	32	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fine Grained Ash Plywood, Golden Copper Ingot and Fresh Chicken Meat to Rosa Kloko in Velia, deliver Balenos' Specialties to Roig Mills in Heidel.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	32	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Consign Fine Grained Ash Plywood to Rosa Kloko in Velia; Consign Golden Copper Ingot to Rosa Kloko in Velia; Consign Fresh Chicken Meat to Rosa Kloko in Velia; Deliver Balenos’s Specialties to Roig Mills in Heidel;	Current
+27	33	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	33	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fine Grained Ash Plywood, Golden Copper Ingot and Fresh Chicken Meat to Rosa Kloko in Velia, deliver Balenos' Specialties to Roig Mills in Heidel.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	33	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Consign Fine Grained Ash Plywood to Rosa Kloko in Velia; Consign Golden Copper Ingot to Rosa Kloko in Velia; Consign Fresh Chicken Meat to Rosa Kloko in Velia; Deliver Balenos’s Specialties to Roig Mills in Heidel;	Current
+27	34	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	34	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fine Grained Ash Plywood, Golden Copper Ingot and Fresh Chicken Meat to Rosa Kloko in Velia, deliver Balenos' Specialties to Roig Mills in Heidel.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	34	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Consign Fine Grained Ash Plywood to Rosa Kloko in Velia; Consign Golden Copper Ingot to Rosa Kloko in Velia; Consign Fresh Chicken Meat to Rosa Kloko in Velia; Deliver Balenos’s Specialties to Roig Mills in Heidel;	Current
+27	35	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	35	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Sturdy Pine Plywood, Pure Lead Ingot and Soft Fleece to Roig Mills in Heidel, deliver Serendia's Specialties to Demiel Batian in Calpheon.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	35	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Consign Sturdy Pine Plywood to Roig Mills in Heidel; Consign Pure Lead Ingot to Roig Mills in Heidel; Propose Soft Fleece to Roig Mills in Heidel; Deliver Serendia’s Specialties to Demiel Batian in Calpheon;	Current
+27	36	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	36	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Sturdy Pine Plywood, Pure Lead Ingot and Soft Fleece to Roig Mills in Heidel, deliver Serendia's Specialties to Demiel Batian in Calpheon.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	36	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Consign Sturdy Pine Plywood to Roig Mills in Heidel;Consign Pure Lead Ingot to Roig Mills in Heidel;Propose Soft Fleece to Roig Mills in Heidel;Deliver Serendia’s Specialties to Demiel Batian in Calpheon;	Current
+27	37	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	37	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Sturdy Pine Plywood, Pure Lead Ingot and Soft Fleece to Roig Mills in Heidel, deliver Serendia's Specialties to Demiel Batian in Calpheon.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	37	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Consign Sturdy Pine Plywood to Roig Mills in Heidel; Consign Pure Lead Ingot to Roig Mills in Heidel; Propose Soft Fleece to Roig Mills in Heidel; Deliver Serendia’s Specialties to Demiel Batian in Calpheon;	Current
+27	38	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	38	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Sturdy Pine Plywood, Pure Lead Ingot and Soft Fleece to Roig Mills in Heidel, deliver Serendia's Specialties to Demiel Batian in Calpheon.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	38	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Consign Sturdy Pine Plywood to Roig Mills in Heidel; Consign Pure Lead Ingot to Roig Mills in Heidel; Propose Soft Fleece to Roig Mills in Heidel; Deliver Serendia’s Specialties to Demiel Batian in Calpheon;	Current
+27	39	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	39	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Thin Fir Plywood, Savagery Tin Ingot and Hardened Coal to Demiel Batian in Calpheon, deliver Calpheon's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	39	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Consign Thin Fir Plywood to Demiel Batian in Calpheon;Consign Barbaric Tin Ingot to Demiel Batian in Calpheon;Consign Hardened Coal to Demiel Batian in Calpheon;Deliver Calpheonian Specialty to Elswin in Altinova;	Current
+27	40	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	40	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Thin Fir Plywood, Savagery Tin Ingot and Hardened Coal to Demiel Batian in Calpheon, deliver Calpheon's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	40	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Consign Thin Fir Plywood to Demiel Batian in Calpheon;Consign Barbaric Tin Ingot to Demiel Batian in Calpheon;Consign Hardened Coal to Demiel Batian in Calpheon;Deliver Calpheonian Specialty to Elswin in Altinova;	Current
+27	41	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	41	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Thin Fir Plywood, Savagery Tin Ingot and Hardened Coal to Demiel Batian in Calpheon, deliver Calpheon's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	41	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Consign Thin Fir Plywood to Demiel Batian in Calpheon;Consign Savagery Tin Ingot to Demiel Batian in Calpheon;Consign Hardened Coal to Demiel Batian in Calpheon;Deliver Calpheon’s Specialties to Elswin in Altinova;	Current
+27	42	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	42	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Thin Fir Plywood, Savagery Tin Ingot and Hardened Coal to Demiel Batian in Calpheon, deliver Calpheon's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	42	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Consign Thin Fir Plywood to Demiel Batian in Calpheon; Consign Savagery Tin Ingot to Demiel Batian in Calpheon; Consign Hardened Coal to Demiel Batian in Calpheon; Deliver Calpheon’s Specialties to Givel Elswin in Altinova;	Current
+27	43	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	43	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fragrant Acacia Plywood, Pure Zinc Ingot and Sharp Cinnamon to Elswin in Altinova, deliver Mediah's Specialties to Givel Taric in Valencia.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	43	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Consign Fragrant Acacia Plywood to Elswin in Altinova; Consign Pure Zinc Ingot to Elswin in Altinova; Consign Sharp Cinnamon to Elswin in Altinova; Deliver Mediah’s Specialties to Givel Taric in Valencia;	Current
+27	44	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	44	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fragrant Acacia Plywood, Pure Zinc Ingot and Sharp Cinnamon to Elswin in Altinova, deliver Mediah's Specialties to Givel Taric in Valencia.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	44	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Consign Fragrant Acacia Plywood to Elswin in Altinova; Consign Pure Zinc Ingot to Elswin in Altinova; Consign Sharp Cinnamon to Elswin in Altinova; Deliver Mediah’s Specialties to Givel Taric in Valencia;	Current
+27	45	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	45	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fragrant Acacia Plywood, Pure Zinc Ingot and Sharp Cinnamon to Elswin in Altinova, deliver Mediah's Specialties to Givel Taric in Valencia.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	45	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Consign Fragrant Acacia Plywood to Elswin in Altinova;Consign Pure Zinc Ingot to Elswin in Altinova;Consign Sharp Cinnamon to Elswin in Altinova;Deliver Mediah’s Specialties to Givel Taric in Valencia;	Current
+27	46	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	46	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Fragrant Acacia Plywood, Pure Zinc Ingot and Sharp Cinnamon to Elswin in Altinova, deliver Mediah's Specialties to Givel Taric in Valencia.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	46	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Consign Fragrant Acacia Plywood to Elswin in Altinova; Consign Pure Zinc Ingot to Elswin in Altinova; Consign Sharp Cinnamon to Elswin in Altinova; Deliver Mediah’s Specialties to Givel Taric in Valencia;	Current
+27	47	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	47	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Elastic Palm Plywood, Insulating Vanadium Ingot and Sweet Fig to Givel Taric in Valencia, deliver Valencia's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	47	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;알티노바의 엘스윈에게 발렌시아 특산품 납품;	Consign Elastic Palm Plywood to Givel Taric in Valencia;Consign Insulating Vanadium Ingot to Givel Taric in Valencia;Consign Sweet Fig to Givel Taric in Valencia;Deliver Valencia’s Specialties to Elswin in Altinova;	Current
+27	48	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	48	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Elastic Palm Plywood, Insulating Vanadium Ingot and Sweet Fig to Givel Taric in Valencia, deliver Valencia's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	48	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;하이델의 로익 밀스에게 발렌시아 특산품 납품;	Consign Elastic Palm Plywood to Givel Taric in Valencia;Consign Insulating Vanadium Ingot to Givel Taric in Valencia;Consign Sweet Fig to Givel Taric in Valencia;Deliver Valencia’s Specialties to Roig Mills in Heidel;	Current
+27	49	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	49	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Elastic Palm Plywood, Insulating Vanadium Ingot and Sweet Fig to Givel Taric in Valencia, deliver Valencia's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	49	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;벨리아의 로자 클로코에게 발렌시아 특산품 납품;	Consign Elastic Palm Plywood to Givel Taric in Valencia;Consign Insulating Vanadium Ingot to Givel Taric in Valencia;Consign Sweet Fig to Givel Taric in Valencia;Deliver Valencia’s Specialties to Rosa Kloko in Velia;	Current
+27	50	0	0	0	[무역] 지역 경제 활성화	[Guild Trade] Vitalizing Local Economy	Current
+27	50	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Consign Elastic Palm Plywood, Insulating Vanadium Ingot and Sweet Fig to Givel Taric in Valencia, deliver Valencia's Specialties to Elswin in Altinova.\n<PAColor0xFF66CC33>※ This quest must be carried out with the Guild Master.<PAOldColor>	Current
+27	50	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;칼페온의 데미엘 바시안에게 발렌시아 특산품 납품;	Consign Elastic Palm Plywood to Givel Taric in Valencia;Consign Insulating Vanadium Ingot to Givel Taric in Valencia;Consign Sweet Fig to Givel Taric in Valencia;Deliver Valencia’s Specialties to Demiel Batian in Calpheon;	Current
+27	201	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	201	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stone (700).	Current
+27	201	0	0	2	거친석재 채집;	Gather Rough Stone;	Current
+27	202	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	202	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (800).	Current
+27	202	0	0	2	통나무 채집;	Gather Logs;	Current
+27	203	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	203	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Iron Ore (300).	Current
+27	203	0	0	2	철 광석 채집;	Gather Iron Ore;	Current
+27	204	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	204	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Ash Timber (360).	Current
+27	204	0	0	2	물푸레나무 원목 채집;	Gather Ash Timber;	Current
+27	205	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	205	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Pine Timber (360).	Current
+27	205	0	0	2	소나무 원목 채집;	Gather Pine Timber;	Current
+27	206	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	206	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Opal (8). Process Melted Iron Shards (100).	Current
+27	206	0	0	2	오팔 원석 채집;녹아내린 철 조각 가공;	Gather Rough Opal;Process Melted Iron Shards;	Current
+27	207	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	207	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Mudskipper (100).	Current
+27	207	0	0	2	망둥어 낚기;	Catch Mudskipper;	Current
+27	208	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	208	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Birch Timber (360).	Current
+27	208	0	0	2	자작나무 원목 채집;	Gather Birch Timber;	Current
+27	209	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	209	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Maple Timber (360).	Current
+27	209	0	0	2	단풍나무 원목 채집;	Gather Maple Timber;	Current
+27	210	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	210	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Fir Timber (360).	Current
+27	210	0	0	2	전나무 원목 채집;	Gather Fir Timber;	Current
+27	211	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	211	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Cedar Timber (360).	Current
+27	211	0	0	2	삼나무 원목 채집;	Gather Cedar Timber;	Current
+27	214	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	214	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Fir Timber (180), Gather Birch Timber (180).	Current
+27	214	0	0	2	전나무 원목 채집;자작나무 원목 채집;	Gather Fir Timber;Gather Birch Timber;	Current
+27	215	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	215	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Maple Timber (180), Gather Birch Timber (180).	Current
+27	215	0	0	2	단풍나무 원목 채집;자작나무 원목 채집;	Gather Maple Timber;Gather Birch Timber;	Current
+27	216	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	216	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stones (800), Process Polished Stone (80).	Current
+27	216	0	0	2	거친석재 채집;다듬어진 석재 가공;	Gather Rough Stones;Process Polished Stone;	Current
+27	217	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	217	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (900), Process Usable Scantlings (90).	Current
+27	217	0	0	2	통나무 채집;쓸만한 각목 가공;	Gather Logs;Process Usable Scantlings;	Current
+27	218	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	218	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (900), Process Pine Plywood (30), Process Fir Plywood (30).	Current
+27	218	0	0	2	통나무 채집;소나무 합판 가공하기;전나무 합판 가공하기;	Gather Logs;Process Pine Plywood;Process Fir Plywood;	Current
+27	219	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	219	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Swordfish (30).	Current
+27	219	0	0	2	새치 낚기;	Catch Swordfish;	Current
+27	220	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	220	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stones (1000).	Current
+27	220	0	0	2	거친 석재 채집;	Gather Rough Stones;	Current
+27	221	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	221	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stones (1000), Process Polished Stone (100).	Current
+27	221	0	0	2	거친석재 채집;다듬어진 석재 가공;	Gather Rough Stones;Process Polished Stone;	Current
+27	222	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	222	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Herring (60).	Current
+27	222	0	0	2	청어 낚기;	Catch Herring;	Current
+27	223	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	223	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (1200), Process Sturdy Pine Plywood (50), Process Sturdy Fir Plywood (50).	Current
+27	223	0	0	2	통나무 채집;견고한 소나무 합판 가공;견고한 전나무 합판 가공;	Gather Logs;Process Sturdy Pine Plywood;Process Sturdy Fir Plywood;	Current
+27	224	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	224	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (1300).	Current
+27	224	0	0	2	통나무 채집;	Gather Logs;	Current
+27	225	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	225	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stones (1200).	Current
+27	225	0	0	2	거친 석재 채집;	Gather Rough Stones;	Current
+27	226	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	226	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stones (1400), Process Polished Stones (200).	Current
+27	226	0	0	2	거친 석재 채집;다듬어진 석재 가공;	Gather Rough Stones;Process Polished Stones;	Current
+27	227	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	227	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (1600), Process Usable Scantlings (200).	Current
+27	227	0	0	2	통나무 채집;쓸만한 각목 가공;	Gather Logs;Process Usable Scantlings;	Current
+27	228	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	228	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Smokey Chromis (10).	Current
+27	228	0	0	2	연무자리 돔 낚기;	Catch Smokey Chromis;	Current
+27	229	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	229	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (1800).	Current
+27	229	0	0	2	통나무 채집;	Gather Logs;	Current
+27	230	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	230	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stones (1600).	Current
+27	230	0	0	2	거친 석재 채집;	Gather Rough Stones;	Current
+27	234	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	234	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Grunt (4).	Current
+27	234	0	0	2	벤자리 낚기;	Catch Grunt;	Current
+27	235	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	235	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Grunt (6).	Current
+27	235	0	0	2	벤자리 낚기;	Catch Grunt;	Current
+27	236	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	236	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Grunt (8).	Current
+27	236	0	0	2	벤자리 낚기;	Catch Grunt;	Current
+27	237	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	237	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Grunt (10).	Current
+27	237	0	0	2	벤자리 낚기;	Catch Grunt;	Current
+27	238	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	238	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Stone (350).	Current
+27	238	0	0	2	거친석재 채집;	Gather Rough Stone;	Current
+27	239	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	239	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Logs (400).	Current
+27	239	0	0	2	통나무 채집;	Gather Logs;	Current
+27	240	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	240	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Iron Ore (150).	Current
+27	240	0	0	2	철 광석 채집;	Gather Iron Ore;	Current
+27	241	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	241	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Ash Timber (180).	Current
+27	241	0	0	2	물푸레나무 원목 채집;	Gather Ash Timber;	Current
+27	242	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	242	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Pine Timber (180).	Current
+27	242	0	0	2	소나무 원목 채집;	Gather Pine Timber;	Current
+27	243	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	243	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Rough Opal (5), Process Melted Iron Shards (50).	Current
+27	243	0	0	2	오팔 원석 채집;녹아내린 철 조각 가공;	Gather Rough Opal;Process Melted Iron Shards;	Current
+27	244	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	244	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Mudskipper (50).	Current
+27	244	0	0	2	망둥어 낚기;	Catch Mudskipper;	Current
+27	245	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	245	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Birch Timber (180).	Current
+27	245	0	0	2	자작나무 원목 채집;	Gather Birch Timber;	Current
+27	246	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	246	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Maple Timber (180).	Current
+27	246	0	0	2	단풍나무 원목 채집;	Gather Maple Timber;	Current
+27	247	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	247	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Fir Timber (180).	Current
+27	247	0	0	2	전나무 원목 채집;	Gather Fir Timber;	Current
+27	248	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	248	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Cedar Timber (180).	Current
+27	248	0	0	2	삼나무 원목 채집;	Gather Cedar Timber;	Current
+27	249	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	249	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Fir Timber (90), Gather Birch Timber (90).	Current
+27	249	0	0	2	전나무 원목 채집;자작나무 원목 채집;	Gather Fir Timber;Gather Birch Timber;	Current
+27	250	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	250	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Maple Timber (90), Gather Birch Timber (90).	Current
+27	250	0	0	2	단풍나무 원목 채집;자작나무 원목 채집;	Gather Maple Timber;Gather Birch Timber;	Current
+27	251	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	251	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Grunt (2).	Current
+27	251	0	0	2	벤자리 낚기;	Catch Grunt;	Current
+27	252	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	252	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Palm Timber (180), Gather Elder Tree Timber (180).	Current
+27	252	0	0	2	야자수 원목 채집;딱총나무 원목 채집;	Gather Palm Timber;Gather Elder Tree Timber;	Current
+27	253	0	0	0	[채집] 길드 물자 조달 임무	[Gathering] Guild Supply Mission	Current
+27	253	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Gather Cactus Skin (360).	Current
+27	253	0	0	2	선인장 껍질 채집;	Gather Cactus Skin;	Current
+27	254	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	254	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Mackerel (35).	Current
+27	254	0	0	2	고등어 낚기;	Catch Mackerel;	Current
+27	255	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	255	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Swellfish (70).	Current
+27	255	0	0	2	복어 낚기;	Catch Swellfish;	Current
+27	256	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	256	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Smokey Chromis (10).	Current
+27	256	0	0	2	연무자리돔 낚기;	Catch Smokey Chromis;	Current
+27	257	0	0	0	[채집] 길드 물자 조달 임무	[Fishing] Guild Supply Mission	Current
+27	257	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	Catch Herring (150), Catch Porgy (15).	Current
+27	257	0	0	2	청어 낚기;돔 낚기;	Catch Herring;Catch Porgy;	Current
+27	273	0	0	0	[채집] 마고리아의 모험가 I	[Gathering] Margoria’s Adventurer I	Current
+27	273	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Coral Piece (40), Gather Oyster (40), Gather Clam (10), Catch Yellow Swordfish (5).	Current
+27	273	0	0	2	산호 조각 채집;굴 채집;대합 조개 채집;황새치 낚기;	Gather Coral Piece;Gather Oyster;Gather Clam;Catch Yellow Swordfish;	Current
+27	274	0	0	0	[채집] 마고리아의 모험가 II	[Gathering] Margoria’s Adventurer II	Current
+27	274	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Coral Piece (40), Gather Seaweed (40), Gather Clam (10), Catch Porgy (5).	Current
+27	274	0	0	2	산호 조각 채집;해조 채집;대합 조개 채집;돔 낚기;	Gather Coral Piece;Gather Seaweed;Gather Clam;Catch Porgy;	Current
+27	275	0	0	0	[채집] 마고리아의 모험가 III	[Gathering] Margoria’s Adventurer III	Current
+27	275	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Coral Piece (60), Gather Oyster (60), Gather Clam (20), Catch Tuna (10).	Current
+27	275	0	0	2	산호 조각 채집;굴 채집;대합 조개 채집;참치 낚기;	Gather Coral Piece;Gather Oyster;Gather Clam;Catch Tuna;	Current
+27	276	0	0	0	[채집] 마고리아의 모험가 IV	[Gathering] Margoria’s Adventurer IV	Current
+27	276	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Coral Piece (60), Gather Seaweed (60), Gather Clam (20),Catch Striped Jewfish (10).	Current
+27	276	0	0	2	산호 조각 채집;해조 채집;대합 조개 채집;돗돔 낚기;	Gather Coral Piece;Gather Seaweed;Gather Clam;Catch Striped Jewfish;	Current
+27	277	0	0	0	[채집] 마고리아의 모험가 V	[Gathering] Margoria’s Adventurer V	Current
+27	277	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Tangleweed (80), Gather Oyster (80), Gather Clam (30), Catch Marlin (15).	Current
+27	277	0	0	2	다시마 채집;굴 채집;대합 조개 채집;청새치 낚기;	Gather Tangleweed;Gather Oyster;Gather Clam;Catch Marlin;	Current
+27	278	0	0	0	[채집] 마고리아의 모험가 VI	[Gathering] Margoria’s Adventurer VI	Current
+27	278	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Tangleweed (80), Gather Seaweed (80), Gather Clam (30), Catch Nibbler (15).	Current
+27	278	0	0	2	다시마 채집;해조 채집;대합 조개 채집;벵에돔 낚기;	Gather Tangleweed;Gather Seaweed;Gather Clam;Catch Nibbler;	Current
+27	279	0	0	0	[채집] 마고리아의 모험가 VII	[Gathering] Margoria’s Adventurer VII	Current
+27	279	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Tangleweed (100), Gather Oyster (100), Gather Clam (40), Catch Sunfish (20).	Current
+27	279	0	0	2	다시마 채집;굴 채집;대합 조개 채집;개복치 낚기;	Gather Tangleweed;Gather Oyster;Gather Clam;Catch Sunfish;	Current
+27	280	0	0	0	[채집] 마고리아의 모험가 VIII	[Gathering] Margoria’s Adventurer VIII	Current
+27	280	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	Gather Tangleweed (100), Gather Seaweed (100), Gather Clam (40), Catch Striped Bonito (20). 	Current
+27	280	0	0	2	다시마 채집;해조 채집;대합 조개 채집;줄삼치 낚기;	Gather Tangleweed;Gather Seaweed;Gather Clam;Catch Striped Bonito;	Current
+27	401	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	401	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (2500).	Current
+27	401	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	402	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	402	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (2000).	Current
+27	402	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	403	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	403	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (40).	Current
+27	403	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	404	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	404	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Skeletons in Hexe Sanctuary (1800).	Current
+27	404	0	0	2	헥세 성역의 해골들 처치;	Kill the Skeletons in Hexe Sanctuary;	Current
+27	405	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	405	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manshas in Southwestern Calpheon (2500).	Current
+27	405	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Kill the Manshas in Southwestern Calpheon;	Current
+27	406	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	406	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (4000).	Current
+27	406	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	407	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	407	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (3200).	Current
+27	407	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	408	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	408	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (65).	Current
+27	408	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	409	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	409	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Skeletons in Hexe Sanctuary (2800).	Current
+27	409	0	0	2	헥세 성역의 해골 처치;	Kill the Skeletons in Hexe Sanctuary;	Current
+27	410	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	410	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manshas in Southwestern Calpheon (4000).	Current
+27	410	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Kill the Manshas in Southwestern Calpheon;	Current
+27	411	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	411	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (5500).	Current
+27	411	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	412	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	412	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (4800).	Current
+27	412	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	413	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	413	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (100).	Current
+27	413	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	414	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	414	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Skeletons in Hexe Sanctuary (4000).	Current
+27	414	0	0	2	헥세 성역의 해골 처치;	Kill the Skeletons in Hexe Sanctuary;	Current
+27	415	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	415	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manshas in Southwestern Calpheon (5500).	Current
+27	415	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Kill the Manshas in Southwestern Calpheon;	Current
+27	416	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	416	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (7000).	Current
+27	416	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	417	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	417	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (6500).	Current
+27	417	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	418	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	418	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (150).	Current
+27	418	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	419	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	419	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Skeletons in Hexe Sanctuary (5000).	Current
+27	419	0	0	2	헥세 성역의 해골 처치;	Kill the Skeletons in Hexe Sanctuary;	Current
+27	420	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	420	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manshas in Southwestern Calpheon (7000).	Current
+27	420	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Kill the Manshas in Southwestern Calpheon;	Current
+27	421	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	421	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (2500).	Current
+27	421	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	422	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	422	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (4000).	Current
+27	422	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	423	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	423	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (5500).	Current
+27	423	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	424	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	424	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (7000).	Current
+27	424	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	425	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	425	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Calpheon Shrine Herd (1500).	Current
+27	425	0	0	2	칼페온 신전 무리를 처치;	Kill the Calpheon Shrine Herd;	Current
+27	426	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	426	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Calpheon Shrine Herd (2500).	Current
+27	426	0	0	2	칼페온 신전 무리를 처치;	Kill the Calpheon Shrine Herd;	Current
+27	427	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	427	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Calpheon Shrine Herd (3700).	Current
+27	427	0	0	2	칼페온 신전 무리를 처치;	Kill the Calpheon Shrine Herd;	Current
+27	428	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	428	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Calpheon Shrine Herd (4500).	Current
+27	428	0	0	2	칼페온 신전 무리를 처치;	Kill the Calpheon Shrine Herd;	Current
+27	429	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	429	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (1000).	Current
+27	429	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	430	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	430	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Treants in Southwestern Calpheon (800).	Current
+27	430	0	0	2	칼페온 서남부 엔트 무리 처치;	Kill the Treants in Southwestern Calpheon;	Current
+27	431	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	431	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (20).	Current
+27	431	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	432	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	432	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Skeletons in Hexe Sanctuary (800).	Current
+27	432	0	0	2	헥세 성역의 해골들 처치;	Kill the Skeletons in Hexe Sanctuary;	Current
+27	433	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	433	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manshas in Southwestern Calpheon (1000).	Current
+27	433	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Kill the Manshas in Southwestern Calpheon;	Current
+27	434	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	434	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (1000).	Current
+27	434	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	435	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	435	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Calpheon Shrine Herd (700).	Current
+27	435	0	0	2	칼페온 신전 무리를 처치;	Kill the Calpheon Shrine Herd;	Current
+27	436	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	436	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (1200).	Current
+27	436	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	437	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	437	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Helms (1200).	Current
+27	437	0	0	2	메디아 투구족 처치;	Kill the Mediah Helms;	Current
+27	438	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	438	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Sausans (800).	Current
+27	438	0	0	2	메디아 소산족 처치;	Kill the Mediah Sausans;	Current
+27	439	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	439	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Followers at the Mediah Elric Monastery (1000).	Current
+27	439	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Kill the Followers at the Mediah Elric Monastery;	Current
+27	440	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	440	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (1200).	Current
+27	440	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	441	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	441	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (2000).	Current
+27	441	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	442	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	442	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Helms (2000).	Current
+27	442	0	0	2	메디아 투구족 처치;	Kill the Mediah Helms;	Current
+27	443	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	443	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Sausans (1800).	Current
+27	443	0	0	2	메디아 소산족 처치;	Kill the Mediah Sausans;	Current
+27	444	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	444	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Followers at the Mediah Elric Monastery (2200).	Current
+27	444	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Kill the Followers at the Mediah Elric Monastery;	Current
+27	445	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	445	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (2200).	Current
+27	445	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	446	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	446	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (3200).	Current
+27	446	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	447	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	447	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Helms (3200).	Current
+27	447	0	0	2	메디아 투구족 처치;	Kill the Mediah Helms;	Current
+27	448	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	448	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Sausans (2300).	Current
+27	448	0	0	2	메디아 소산족 처치;	Kill the Mediah Sausans;	Current
+27	449	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	449	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Followers at the Mediah Elric Monastery (2900).	Current
+27	449	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Kill the Followers at the Mediah Elric Monastery;	Current
+27	450	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	450	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (3000).	Current
+27	450	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	451	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	451	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (4800).	Current
+27	451	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	452	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	452	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Helms (4200).	Current
+27	452	0	0	2	메디아 투구족 처치;	Kill the Mediah Helms;	Current
+27	453	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	453	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Sausans (3300).	Current
+27	453	0	0	2	메디아 소산족 처치;	Kill the Mediah Sausans;	Current
+27	454	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	454	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Followers at the Mediah Elric Monastery (4200).	Current
+27	454	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Kill the Followers at the Mediah Elric Monastery;	Current
+27	455	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	455	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (4800).	Current
+27	455	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	456	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	456	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (6800).	Current
+27	456	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	457	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	457	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Helms (6300).	Current
+27	457	0	0	2	메디아 투구족 처치;	Kill the Mediah Helms;	Current
+27	458	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	458	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mediah Sausans (5600).	Current
+27	458	0	0	2	메디아 소산족 처치;	Kill the Mediah Sausans;	Current
+27	459	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	459	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Followers at the Mediah Elric Monastery (5200).	Current
+27	459	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Kill the Followers at the Mediah Elric Monastery;	Current
+27	460	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	460	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (6100).	Current
+27	460	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	461	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	461	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Centaurus (3800).	Current
+27	461	0	0	2	발렌시아 켄타우로스 처치;	Kill the Valencia Centaurus;	Current
+27	462	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	462	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Basilisks (3800).	Current
+27	462	0	0	2	발렌시아 바실리스크 처치;	Kill the Valencia Basilisks;	Current
+27	463	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	463	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Centaurus (1500).	Current
+27	463	0	0	2	발렌시아 켄타우로스 처치;	Kill the Valencia Centaurus;	Current
+27	464	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	464	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Basilisks (1500).	Current
+27	464	0	0	2	발렌시아 바실리스크 처치;	Kill the Valencia Basilisks;	Current
+27	465	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	465	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Centaurus (2000).	Current
+27	465	0	0	2	발렌시아 켄타우로스 처치;	Kill the Valencia Centaurus;	Current
+27	466	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	466	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Basilisks (2000).	Current
+27	466	0	0	2	발렌시아 바실리스크 처치;	Kill the Valencia Basilisks;	Current
+27	467	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	467	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Centaurus (2800).	Current
+27	467	0	0	2	발렌시아 켄타우로스 처치;	Kill the Valencia Centaurus;	Current
+27	468	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	468	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Valencia Basilisks (2800).	Current
+27	468	0	0	2	발렌시아 바실리스크 처치;	Kill the Valencia Basilisks;	Current
+27	469	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	469	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (1000).	Current
+27	469	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	470	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	470	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Treants in Southwestern Calpheon (800).	Current
+27	470	0	0	2	칼페온 서남부 엔트 무리 처치;	Kill the Treants in Southwestern Calpheon;	Current
+27	471	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	471	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (20).	Current
+27	471	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	472	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	472	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (1000).	Current
+27	472	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	473	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	473	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (1200).	Current
+27	473	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	474	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	474	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (1200).	Current
+27	474	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	475	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	475	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (2500).	Current
+27	475	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	476	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	476	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (2000).	Current
+27	476	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	477	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	477	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (40).	Current
+27	477	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	478	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	478	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (2500).	Current
+27	478	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	479	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	479	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (2000).	Current
+27	479	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	480	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	480	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (2200).	Current
+27	480	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	481	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	481	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (4000).	Current
+27	481	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	482	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	482	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (3200).	Current
+27	482	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	483	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	483	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (65).	Current
+27	483	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	484	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	484	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (4000).	Current
+27	484	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	485	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	485	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (3200).	Current
+27	485	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	486	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	486	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (3000).	Current
+27	486	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	487	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	487	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (5500).	Current
+27	487	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	488	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	488	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (4800).	Current
+27	488	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	489	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	489	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (100).	Current
+27	489	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	490	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	490	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (5500).	Current
+27	490	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	491	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	491	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (4800).	Current
+27	491	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	492	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	492	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (4800).	Current
+27	492	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	493	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	493	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Giants at the Keplan Primal Giant Post (7000).	Current
+27	493	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Kill the Giants at the Keplan Primal Giant Post;	Current
+27	494	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	494	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Tree Spirits in Southwestern Calpheon (6500).	Current
+27	494	0	0	2	칼페온 서남부 나무 정령 처치;	Kill the Tree Spirits in Southwestern Calpheon;	Current
+27	495	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	495	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Cyclops (150).	Current
+27	495	0	0	2	외눈박이 거인 처치;	Kill the Cyclops;	Current
+27	496	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Protect the Villagers	Current
+27	496	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Rhutums in Southwestern Calpheon (7000).	Current
+27	496	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Kill the Rhutums in Southwestern Calpheon;	Current
+27	497	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	497	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians in the Mediah Abandoned Iron Mine (6800).	Current
+27	497	0	0	2	메디아 폐철광산 야만족 처치;	Kill the Barbarians in the Mediah Abandoned Iron Mine;	Current
+27	498	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	498	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Mediah Wandering Rogue Den (6100).	Current
+27	498	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Kill the Wandering Rogues at the Mediah Wandering Rogue Den;	Current
+27	499	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	499	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Valencian Bashims (1800).	Current
+27	499	0	0	2	발렌시아 바심족 처치;	Defeat Valencian Bashims;	Current
+27	500	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	500	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Cadry Cultists in Valencia (1800).	Current
+27	500	0	0	2	발렌시아 카드리 광신도 처치;	Defeat Cadry Cultists in Valencia;	Current
+27	501	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	501	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Waragons in Valencia (1800).	Current
+27	501	0	0	2	발렌시아 와라곤 처치;	Defeat Waragons in Valencia;	Current
+27	502	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	502	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Fogans in Valencia (1800).	Current
+27	502	0	0	2	발렌시아 사막 포건 처치;	Defeat Desert Fogans in Valencia;	Current
+27	503	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	503	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Crescent Cultists in Valencia (1800).	Current
+27	503	0	0	2	발렌시아 초승달 광신도 처치;	Defeat Crescent Cultists in Valencia;	Current
+27	504	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	504	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Naga in Valencia (1800).	Current
+27	504	0	0	2	발렌시아 사막 나가 처치;	Defeat Desert Naga in Valencia;	Current
+27	505	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	505	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Gahaz Bandits in Valencia (1800).	Current
+27	505	0	0	2	발렌시아 가하즈 도적단 처치;	Defeat Gahaz Bandits in Valencia;	Current
+27	506	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	506	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Valencian Bashims (2500).	Current
+27	506	0	0	2	발렌시아 바심족 처치;	Defeat Valencian Bashims;	Current
+27	507	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	507	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Cadry Cultists in Valencia (2500).	Current
+27	507	0	0	2	발렌시아 카드리 광신도 처치;	Defeat Cadry Cultists in Valencia;	Current
+27	508	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	508	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Waragons in Valencia (2500).	Current
+27	508	0	0	2	발렌시아 와라곤 처치;	Defeat Waragons in Valencia;	Current
+27	509	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	509	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Fogans in Valencia (2500).	Current
+27	509	0	0	2	발렌시아 사막 포건 처치;	Defeat Desert Fogans in Valencia;	Current
+27	510	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	510	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Crescent Cultists in Valencia (2500).	Current
+27	510	0	0	2	발렌시아 초승달 광신도 처치;	Defeat Crescent Cultists in Valencia;	Current
+27	511	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	511	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Naga in Valencia (2500).	Current
+27	511	0	0	2	발렌시아 사막 나가 처치;	Defeat Desert Naga in Valencia;	Current
+27	512	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	512	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Gahaz Bandits in Valencia (2500).	Current
+27	512	0	0	2	발렌시아 가하즈 도적단 처치;	Defeat Gahaz Bandits in Valencia;	Current
+27	513	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	513	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Valencian Bashims (3500).	Current
+27	513	0	0	2	발렌시아 바심족 처치;	Defeat Valencian Bashims;	Current
+27	514	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	514	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Cadry Cultists in Valencia (3500).	Current
+27	514	0	0	2	발렌시아 카드리 광신도 처치;	Defeat Cadry Cultists in Valencia;	Current
+27	515	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	515	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Waragons in Valencia (3500).	Current
+27	515	0	0	2	발렌시아 와라곤 처치;	Defeat Waragons in Valencia;	Current
+27	516	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	516	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Fogans in Valencia (3500).	Current
+27	516	0	0	2	발렌시아 사막 포건 처치;	Defeat Desert Fogans in Valencia;	Current
+27	517	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	517	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Crescent Cultists in Valencia (3500).	Current
+27	517	0	0	2	발렌시아 초승달 광신도 처치;	Defeat Crescent Cultists in Valencia;	Current
+27	518	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	518	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Naga in Valencia (3500).	Current
+27	518	0	0	2	발렌시아 사막 나가 처치;	Defeat Desert Naga in Valencia;	Current
+27	519	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	519	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Gahaz Bandits in Valencia (3500).	Current
+27	519	0	0	2	발렌시아 가하즈 도적단 처치;	Defeat Gahaz Bandits in Valencia;	Current
+27	520	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	520	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Valencian Bashims (4500).	Current
+27	520	0	0	2	발렌시아 바심족 처치;	Defeat Valencian Bashims;	Current
+27	521	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	521	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Cadry Cultists in Valencia (4500).	Current
+27	521	0	0	2	발렌시아 카드리 광신도 처치;	Defeat Cadry Cultists in Valencia;	Current
+27	522	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	522	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Waragons in Valencia (4500).	Current
+27	522	0	0	2	발렌시아 와라곤 처치;	Defeat Waragons in Valencia;	Current
+27	523	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	523	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Fogans in Valencia (4500).	Current
+27	523	0	0	2	발렌시아 사막 포건 처치;	Defeat Desert Fogans in Valencia;	Current
+27	524	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	524	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Crescent Cultists in Valencia (4500).	Current
+27	524	0	0	2	발렌시아 초승달 광신도 처치;	Defeat Crescent Cultists in Valencia;	Current
+27	525	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	525	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Desert Naga in Valencia (4500).	Current
+27	525	0	0	2	발렌시아 사막 나가 처치;	Defeat Desert Naga in Valencia;	Current
+27	526	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Protect the Villagers	Current
+27	526	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Gahaz Bandits in Valencia (4500).	Current
+27	526	0	0	2	발렌시아 가하즈 도적단 처치;	Defeat Gahaz Bandits in Valencia;	Current
+27	527	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	527	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Manes in Mediah (2200).	Current
+27	527	0	0	2	메디아 갈기족 처치;	Defeat Manes in Mediah;	Current
+27	528	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	528	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Manes in Mediah (3000).	Current
+27	528	0	0	2	메디아 갈기족 처치;	Defeat Manes in Mediah;	Current
+27	529	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	529	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Manes in Mediah (4800).	Current
+27	529	0	0	2	메디아 갈기족 처치;	Defeat Manes in Mediah;	Current
+27	530	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Protect the Villagers	Current
+27	530	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Manes in Mediah (6100).	Current
+27	530	0	0	2	메디아 갈기족 처치;	Defeat Manes in Mediah;	Current
+27	531	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	531	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Cultists at the monastery (1000).	None
+27	531	0	0	2	수도원의 광신도 처치;	Defeat the Cultists at the monastery;	None
+27	532	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	532	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Cultists at the monastery (2500).	None
+27	532	0	0	2	수도원의 광신도 처치;	Defeat the Cultists at the monastery;	None
+27	533	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	533	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Cultists at the monastery (4000).	None
+27	533	0	0	2	수도원의 광신도 처치;	Defeat the Cultists at the monastery;	None
+27	534	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	534	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Cultists at the monastery (5500).	None
+27	534	0	0	2	수도원의 광신도 처치;	Defeat the Cultists at the monastery;	None
+27	535	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	535	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Cultists at the monastery (7000).	None
+27	535	0	0	2	수도원의 광신도 처치;	Defeat the Cultists at the monastery;	None
+27	536	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	536	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Rebels of Castle Ruins (1000).	None
+27	536	0	0	2	폐성터의 반란군 처치;	Defeat Rebels of Castle Ruins;	None
+27	537	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	537	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Rebels of Castle Ruins (2500).	None
+27	537	0	0	2	폐성터의 반란군 처치;	Defeat Rebels of Castle Ruins;	None
+27	538	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	538	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Rebels of Castle Ruins (4000).	None
+27	538	0	0	2	폐성터의 반란군 처치;	Defeat Rebels of Castle Ruins;	None
+27	539	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	539	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Rebels of Castle Ruins (5500).	None
+27	539	0	0	2	폐성터의 반란군 처치;	Defeat Rebels of Castle Ruins;	None
+27	540	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Protect the Villagers	None
+27	540	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Rebels of Castle Ruins (7000).	None
+27	540	0	0	2	폐성터의 반란군 처치;	Defeat Rebels of Castle Ruins;	None
+27	580	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Boss - Ferrid] Ferrid Elimination	Current
+27	580	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Ferrids at the Omar Lava Cave (280).	Current
+27	580	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Kill the Ferrids at the Omar Lava Cave;	Current
+27	581	0	0	0	[우두머리 토벌] 갈기족 소탕작전	[Boss - Ferrid] Mane Elimination	Current
+27	581	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manes at the Manes Hideout (300).	Current
+27	581	0	0	2	갈기족 소굴에서 갈기족을 처치;	Kill the Manes at the Manes Hideout;	Current
+27	582	0	0	0	[우두머리 토벌] 방랑도적 주둔지 토벌작전	[Boss - Mudster] Wandering Rogue Den Elimination	Current
+27	582	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Wandering Rogue Den (300).	Current
+27	582	0	0	2	방랑도적 주둔지에서 방랑도적 처치;	Kill the Wandering Rogues at the Wandering Rogue Den;	Current
+27	583	0	0	0	[우두머리 토벌] 마르니 제2 실험터 토벌작전	[Boss - Mudster] Marni's 2nd Lab Elimination	Current
+27	583	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mutant Test Subjects in Marni's 2nd Lab (250).	Current
+27	583	0	0	2	마르니 제2 실험터의 변종 실험체 처치;	Kill the Mutant Test Subjects in Marni's 2nd Lab;	Current
+27	584	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Boss - Ferrid] Ferrid Elimination	Current
+27	584	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Ferrids at the Omar Lava Cave (280).	Current
+27	584	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Kill the Ferrids at the Omar Lava Cave;	Current
+27	585	0	0	0	[우두머리 토벌] 갈기족 소탕작전	[Boss - Ferrid] Mane Elimination	Current
+27	585	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manes at the Manes Hideout (300).	Current
+27	585	0	0	2	갈기족 소굴에서 갈기족을 처치;	Kill the Manes at the Manes Hideout;	Current
+27	586	0	0	0	[우두머리 토벌] 방랑도적 주둔지 토벌작전	[Boss - Mudster] Wandering Rogue Den Elimination	Current
+27	586	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Wandering Rogue Den (300).	Current
+27	586	0	0	2	방랑도적 주둔지에서 방랑도적 처치;	Kill the Wandering Rogues at the Wandering Rogue Den;	Current
+27	587	0	0	0	[우두머리 토벌] 마르니 제2 실험터 토벌작전	[Boss - Mudster] Marni's 2nd Lab Elimination	Current
+27	587	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mutant Test Subjects in Marni's 2nd Lab (250).	Current
+27	587	0	0	2	마르니 제2 실험터의 변종 실험체 처치;	Kill the Mutant Test Subjects in Marni's 2nd Lab;	Current
+27	588	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Boss - Ferrid] Ferrid Elimination	Current
+27	588	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Ferrids at the Omar Lava Cave (280).	Current
+27	588	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Kill the Ferrids at the Omar Lava Cave;	Current
+27	589	0	0	0	[우두머리 토벌] 갈기족 소탕작전	[Boss - Ferrid] Mane Elimination	Current
+27	589	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Manes at the Manes Hideout (300).	Current
+27	589	0	0	2	갈기족 소굴에서 갈기족을 처치;	Kill the Manes at the Manes Hideout;	Current
+27	590	0	0	0	[우두머리 토벌] 방랑도적 주둔지 토벌작전	[Boss - Mudster] Wandering Rogue Den Elimination	Current
+27	590	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Wandering Rogues at the Wandering Rogue Den (300).	Current
+27	590	0	0	2	방랑도적 주둔지에서 방랑도적 처치;	Kill the Wandering Rogues at the Wandering Rogue Den;	Current
+27	591	0	0	0	[우두머리 토벌] 마르니 제2 실험터 토벌작전	[Boss - Mudster] Marni's 2nd Lab Elimination	Current
+27	591	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Mutant Test Subjects in Marni's 2nd Lab (250).	Current
+27	591	0	0	2	마르니 제2 실험터의 변종 실험체 처치;	Kill the Mutant Test Subjects in Marni's 2nd Lab;	Current
+27	592	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Protect the Villagers	Current
+27	592	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Margoria Sea Monster (2).	Current
+27	592	0	0	2	마고리아 해양 몬스터 처치;	Defeat Margoria Sea Monster;	Current
+27	593	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Protect the Villagers	Current
+27	593	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Margoria Sea Monster (3).	Current
+27	593	0	0	2	마고리아 해양 몬스터 처치;	Defeat Margoria Sea Monster;	Current
+27	594	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Protect the Villagers	Current
+27	594	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Margoria Sea Monster (4).	Current
+27	594	0	0	2	마고리아 해양 몬스터 처치;	Defeat Margoria Sea Monster;	Current
+27	595	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Protect the Villagers	Current
+27	595	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Margoria Sea Monster (5).	Current
+27	595	0	0	2	마고리아 해양 몬스터 처치;	Defeat Margoria Sea Monster;	Current
+27	596	0	0	0	[토벌] 주민들의 도움 요청 I	[Margoria] Protect the Villagers I	Current
+27	596	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Hekaru (1), Defeat Ocean Stalker (1).	Current
+27	596	0	0	2	헤카루 처치;표류추적자 처치;	Defeat Hekaru;Defeat Ocean Stalker;	Current
+27	597	0	0	0	[토벌] 주민들의 도움 요청 II	[Margoria] Protect the Villagers II	Current
+27	597	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Hekaru (2), Defeat Nineshark (1).	Current
+27	597	0	0	2	헤카루 처치;나인샤크 처치;	Defeat Hekaru;Defeat Nineshark;	Current
+27	598	0	0	0	[토벌] 주민들의 도움 요청 III	[Margoria] Protect the Villagers III	Current
+27	598	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Ocean Stalker (2), Defeat Candidum (2).	Current
+27	598	0	0	2	표류추적자 처치;칸디둠 처치;	Defeat Ocean Stalker;Defeat Candidum;	Current
+27	599	0	0	0	[토벌] 주민들의 도움 요청 IV	[Margoria] Protect the Villagers IV	Current
+27	599	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Candidum (2), Defeat Nineshark (2), Defeat Black Rust (1).	Current
+27	599	0	0	2	칸디둠 처치;나인샤크 처치;검은무쇠이빨 처치;	Defeat Candidum;Defeat Nineshark;Defeat Black Rust;	Current
+27	600	0	0	0	[우두머리 토벌] 미루목 주시자 오핀	[Boss Subjugation] Mirumok Watcher Offin	None
+27	600	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Mirumok Watcher Offin.	None
+27	600	0	0	2	미루목 주시자 오핀 처치;	Defeat Mirumok Watcher Offin;	None
+27	601	0	0	0	[우두머리 토벌] 미루목 주시자 오핀	[Boss Subjugation] Mirumok Watcher Offin	None
+27	601	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Mirumok Watcher Offin.	None
+27	601	0	0	2	미루목 주시자 오핀 처치;	Defeat Mirumok Watcher Offin;	None
+27	602	0	0	0	[우두머리 토벌] 미루목 주시자 오핀	[Boss Subjugation] Mirumok Watcher Offin	None
+27	602	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Mirumok Watcher Offin.	None
+27	602	0	0	2	미루목 주시자 오핀 처치;	Defeat Mirumok Watcher Offin;	None
+27	603	0	0	0	[우두머리 토벌] 미루목 주시자 오핀	[Boss Subjugation] Mirumok Watcher Offin	None
+27	603	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat Mirumok Watcher Offin.	None
+27	603	0	0	2	미루목 주시자 오핀 처치;	Defeat Mirumok Watcher Offin;	None
+27	1001	0	0	0	[우두머리 토벌] 병사의 무덤 소탕작전	[Boss - Ferrid] Soldier’s Grave Attack	Current
+27	1001	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Frenzied Skeletons at the Soldier’s Grave (750).	Current
+27	1001	0	0	2	병사의 무덤에서 광기의 해골들 처치;	Kill the Frenzied Skeletons at the Soldier’s Grave;	Current
+27	1002	0	0	0	[우두머리 토벌] 폐철광산 소탕작전	[Boss - Ferrid] Abandoned Iron Mine Attack	Current
+27	1002	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians at the Abandoned Iron Mine (600).	Current
+27	1002	0	0	2	폐철광산의 야만족 처치;	Kill the Barbarians at the Abandoned Iron Mine;	Current
+27	1005	0	0	0	[우두머리 토벌] 하스라 고대 유적지 토벌작전	[Boss - Mudster] Hasrah Ancient Ruins Elimination	Current
+27	1005	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Destroy the Ancient Weapons at the Hasrah Ancient Ruins (750).	Current
+27	1005	0	0	2	하스라 고대 유적지에서 고대 병기 처치;	Destroy the Ancient Weapons at the Hasrah Ancient Ruins;	Current
+27	1006	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Boss - Mudster] Sausan Garrison Elimination	Current
+27	1006	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Sausans at the Sausan Garrison (600).	Current
+27	1006	0	0	2	소산 주둔지의 소산족 처치;	Kill the Sausans at the Sausan Garrison;	Current
+27	1009	0	0	0	[우두머리 토벌] 병사의 무덤 소탕작전	[Boss - Ferrid] Soldier’s Grave Attack	Current
+27	1009	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Frenzied Skeletons at the Soldier’s Grave (750).	Current
+27	1009	0	0	2	병사의 무덤에서 광기의 해골들 처치;	Kill the Frenzied Skeletons at the Soldier’s Grave;	Current
+27	1010	0	0	0	[우두머리 토벌] 폐철광산 소탕작전	[Boss - Ferrid] Abandoned Iron Mine Attack	Current
+27	1010	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians at the Abandoned Iron Mine (600).	Current
+27	1010	0	0	2	폐철광산의 야만족 처치;	Kill the Barbarians at the Abandoned Iron Mine;	Current
+27	1013	0	0	0	[우두머리 토벌] 하스라 고대 유적지 토벌작전	[Boss - Mudster] Hasrah Ancient Ruins Elimination	Current
+27	1013	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Destroy the Ancient Weapons at the Hasrah Ancient Ruins (750).	Current
+27	1013	0	0	2	하스라 고대 유적지에서 고대 병기 처치;	Destroy the Ancient Weapons at the Hasrah Ancient Ruins;	Current
+27	1014	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Boss - Mudster] Sausan Garrison Elimination	Current
+27	1014	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Sausans at the Sausan Garrison (600).	Current
+27	1014	0	0	2	소산 주둔지의 소산족 처치;	Kill the Sausans at the Sausan Garrison;	Current
+27	1017	0	0	0	[우두머리 토벌] 병사의 무덤 소탕작전	[Boss - Ferrid] Soldier’s Grave Attack	Current
+27	1017	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Frenzied Skeletons at the Soldier’s Grave (750).	Current
+27	1017	0	0	2	병사의 무덤에서 광기의 해골들 처치;	Kill the Frenzied Skeletons at the Soldier’s Grave;	Current
+27	1018	0	0	0	[우두머리 토벌] 폐철광산 소탕작전	[Boss - Ferrid] Abandoned Iron Mine Attack	Current
+27	1018	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Barbarians at the Abandoned Iron Mine (600).	Current
+27	1018	0	0	2	폐철광산의 야만족 처치;	Kill the Barbarians at the Abandoned Iron Mine;	Current
+27	1021	0	0	0	[우두머리 토벌] 하스라 고대 유적지 토벌작전	[Boss - Mudster] Hasrah Ancient Ruins Elimination	Current
+27	1021	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Destroy the Ancient Weapons at the Hasrah Ancient Ruins (750).	Current
+27	1021	0	0	2	하스라 고대 유적지에서 고대 병기 처치;	Destroy the Ancient Weapons at the Hasrah Ancient Ruins;	Current
+27	1022	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Boss - Mudster] Sausan Garrison Elimination	Current
+27	1022	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Sausans at the Sausan Garrison (600).	Current
+27	1022	0	0	2	소산 주둔지의 소산족 처치;	Kill the Sausans at the Sausan Garrison;	Current
