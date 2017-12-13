@@ -733,6 +733,54 @@
 27	540	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Beschützt die Bewohner	None
 27	540	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Besiegt die Rebellen der Schlossruinen.	None
 27	540	0	0	2	폐성터의 반란군 처치;	Besiegt die Rebellen der Schlossruinen;	None
+27	541	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	541	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Tötet wilde Tiere in der Navarn-Steppe.	Kamasilvia1	
+27	541	0	0	2	나반 초원의 야생 동물 처치;	Tötet wilde Tiere in der Navarn-Steppe;	Kamasilvia1	
+27	542	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	542	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1500] Tötet wilde Tiere in der Navarn-Steppe.	Kamasilvia1	
+27	542	0	0	2	나반 초원의 야생 동물 처치;	Tötet wilde Tiere in der Navarn-Steppe;	Kamasilvia1	
+27	543	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	543	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2200] Tötet wilde Tiere in der Navarn-Steppe.	Kamasilvia1	
+27	543	0	0	2	나반 초원의 야생 동물 처치;	Tötet wilde Tiere in der Navarn-Steppe;	Kamasilvia1	
+27	544	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	544	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3000] Tötet wilde Tiere in der Navarn-Steppe.	Kamasilvia1	
+27	544	0	0	2	나반 초원의 야생 동물 처치;	Tötet wilde Tiere in der Navarn-Steppe;	Kamasilvia1	
+27	545	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	545	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Besiegt die Manshaum im Manshaum-Wald.	Kamasilvia1	
+27	545	0	0	2	만샤 숲의 만샤움 무리 처치;	Besiegt die Manshaum im Manshaum-Wald	Kamasilvia1	
+27	546	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	546	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Besiegt die Manshaum im Manshaum-Wald.	Kamasilvia1	
+27	546	0	0	2	만샤 숲의 만샤움 무리 처치;	Besiegt die Gruppe von Manshaum im Manshaum-Wald	Kamasilvia1	
+27	547	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	547	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3000] Besiegt die Manshaum im Manshaum-Wald.	Kamasilvia1	
+27	547	0	0	2	만샤 숲의 만샤움 무리 처치;	Besiegt die Gruppe von Manshaum im Manshaum-Wald	Kamasilvia1	
+27	548	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia1	
+27	548	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Besiegt die Manshaum im Manshaum-Wald.	Kamasilvia1	
+27	548	0	0	2	만샤 숲의 만샤움 무리 처치;	Besiegt die Gruppe von Manshaum im Manshaum-Wald	Kamasilvia1	
+27	549	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	549	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Besiegt die Pilze in Pollys Wald.	Kamasilvia2	
+27	549	0	0	2	폴리 숲의 버섯들 처치;	Besiegt die Pilze in Pollys Wald;	Kamasilvia2	
+27	550	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	550	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Besiegt die Pilze in Pollys Wald.	Kamasilvia2	
+27	550	0	0	2	폴리 숲의 버섯들 처치;	Besiegt die Pilze in Pollys Wald;	Kamasilvia2	
+27	551	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	551	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Besiegt die Pilze in Pollys Wald.	Kamasilvia2	
+27	551	0	0	2	폴리 숲의 버섯들 처치;	Besiegt die Pilze in Pollys Wald;	Kamasilvia2	
+27	552	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	552	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5000] Besiegt die Pilze in Pollys Wald.	Kamasilvia2	
+27	552	0	0	2	폴리 숲의 버섯들 처치;	Besiegt die Pilze in Pollys Wald;	Kamasilvia2	
+27	553	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	553	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Besiegt Gruppen von Fadus im Wildbaumwald.	Kamasilvia2	
+27	553	0	0	2	고리나무 숲의 파두스 무리 처치;	Besiegt Gruppen von Fadus im Wildbaumwald;	Kamasilvia2	
+27	554	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	554	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Besiegt Gruppen von Fadus im Wildbaumwald.	Kamasilvia2	
+27	554	0	0	2	고리나무 숲의 파두스 무리 처치;	Besiegt Gruppen von Fadus im Wildbaumwald;	Kamasilvia2	
+27	555	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	555	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Besiegt Gruppen von Fadus im Wildbaumwald.	Kamasilvia2	
+27	555	0	0	2	고리나무 숲의 파두스 무리 처치;	Besiegt Gruppen von Fadus im Wildbaumwald;	Kamasilvia2	
+27	556	0	0	0	[토벌] 주민들의 도움 요청	[Kamasilvia] Beschützt die Bewohner	Kamasilvia2	
+27	556	0	0	1	카마실비아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5000] Besiegt Gruppen von Fadus im Wildbaumwald.	Kamasilvia2	
+27	556	0	0	2	고리나무 숲의 파두스 무리 처치;	Besiegt Gruppen von Fadus im Wildbaumwald;	Kamasilvia2	
 27	580	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Boss - Ferrid] Bezwingung der Ferriden	Current
 27	580	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[280] Tötet die Ferriden in der Omar-Lavahöhle.	Current
 27	580	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Tötet die Ferriden in der Omar-Lavahöhle;	Current
