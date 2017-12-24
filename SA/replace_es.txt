@@ -1,0 +1,819 @@
+27	1	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Principiante 1] Misión de Entrega Urgente	None	
+27	1	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar la Olla de Medicina Casera a Lara en Heidel. Entregar la Semilla del Espíritu del Árbol a Lebyos en Heidel. Entregar la Olla de Sal de Iliya a David Finto en Velia.	None	
+27	1	0	0	2	하이델의 라라에게 가정용 약탕기 배달;하이델의 러비오스에게 나무 정령의 씨앗 배달;벨리아의 다비드 핀토에게 일리야산 소금 항아리 배달;	Entregar la Olla de Medicina Casera a Lara en Heidel; Entregar la Semilla del Espíritu del Árbol a Lebyos en Heidel; Entregar la Olla de Sal de Iliya a David Finto en Velia;	None	
+27	2	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Principiante 1] Misión de Entrega Urgente	None	
+27	2	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar el Papalote de Deseo a Rubin en Calpheon. Entregar el Barro Seco de Freharau a Kaia Feresio en Calpheon. Entregar la Gorra Tradicional de Shais a Izella en Florin.	None	
+27	2	0	0	2	칼페온의 루빈에게 소망 방패연 배달;칼페온의 카이아 페레시오에게 프레하라우의 마른 진흙 배달;플로린의 이젤라에게 샤이족 전통모자 배달;	Entregar el Papalote de Deseo a Rubin en Calpheon;Entregar el Barro Seco de Freharau a Kaia Feresio en Calpheon;Entregar la Gorra Tradicional de Shais a Izella en Florin;	None	
+27	3	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 8] Misión de Entrega Urgente	None	
+27	3	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar la Aventura Extraña de Bartali a Balker Batian en Calpheon. Entregar el Huevo de Fogan Fresco a Melissa Brady en Heidel. Entregar el Libro sobre las técnicas de combate de los Caballeros de Heidel a Lilvanos en Keplan.	None	
+27	3	0	0	2	칼페온의 볼커 바시안에게 바탈리의 기묘한 모험 배달;하이델의 멜리사 브레디에게 신선한 포건 알 배달;케플란의 릴바노스에게 하이델 기사 무술 교본 배달;	Entregar la Aventura Extraña de Bartali a Balker Batian en Calpheon;Entregar el Huevo de Fogan Fresco a Melissa Brady en Heidel;Entregar el Libro sobre las técnicas de combate de los Caballeros de Heidel a Lilvanos en Keplan;	None	
+27	4	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 2] Misión de Entrega Urgente	None	
+27	4	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar la Mermelada de Uva de Olvia a Amerigo en Heidel. Entregar el Excremento de Ogro a Lilvanos en Keplan. Entregar el Vino de Velia a Fredelles Herba en Calpheon.	None	
+27	4	0	0	2	하이델의 아메리고에게 올비아산 포도잼 배달;케플란의 릴바노스에게 오우거의 분비물 배달;칼페온의 프레델레스 허바에게 벨리아 포도주 배달;	Entregar la Mermelada de Uva de Olvia a Amerigo en Heidel;Entregar el Excremento de Ogro a Lilvanos en Keplan;Entregar el Vino de Velia a Fredelles Herba en Calpheon;	None	
+27	5	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Principiante 1] Misión de Entrega Urgente	None	
+27	5	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar la Olla de Sal de Iliya a Olivia en Heidel. Entregar el Libro sobre las técnicas de combate de los Caballeros de Heidel a Psebor en Calpheon.	None	
+27	5	0	0	2	하이델의 올리비아에게 일리야산 소금 항아리 배달;칼페온의 프세보르에게 하이델 기사 무술 교본 배달;	Entregar la Olla de Sal de Iliya a Olivia en Heidel;Entregar el Libro sobre las técnicas de combate de los Caballeros de Heidel a Psebor en Calpheon;	None	
+27	6	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Principiante 1] Misión de Entrega Urgente	None	
+27	6	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar el Barro Seco de Freharau a Gabril en Calpheon. Entregar el Kit de Primeros Auxilios de Heidel a Hessenvale en el Campamento de Guardias del Oeste.	None	
+27	6	0	0	2	칼페온의 게이브릴에게 프레하라우의 마른 진흙 배달;서부 경비 캠프의 헤센베일에게 하이델 구급 상자 배달;	Entregar el Barro Seco de Freharau a Gabril en Calpheon;Entregar el Kit de Primeros Auxilios de Heidel a Hessenvale en el Campamento de Guardias del Oeste;	None	
+27	7	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Principiante 1] Misión de Entrega Urgente	None	
+27	7	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.	Entregar el Kit de Primeros Auxilios de Heidel a Feinia en el Campamento de Guardias del Oeste. Entregar el Mineral Rojo de Diablillo a Kardash en Glish. Entregar la Gorra Tradicional de Shais a Herar en Florin.	None	
+27	7	0	0	2	서부 경비 캠프의 페이니아에게 하이델 구급 상자 배달;글리시의 카다슈에게 임프의 붉은 광석 배달;플로린의 헤르아르에게 샤이족 전통모자 배달;	Entregar el Kit de Primeros Auxilios de Heidel a Feinia en el Campamento de Guardias del Oeste;Entregar el Mineral Rojo de Diablillo a Kardash en Glish;Entregar la Gorra Tradicional de Shais a Herar en Florin;	None	
+27	8	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 10] Misión de Entrega Urgente	None	
+27	8	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 견습 Lv10 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Olla de Medicinas Casera a Izella en Florin. Entregar la Poción de Amor No.6 a Geoffrey Erne en Calpheon. Entregar el Mineral Rojo de Diablillo a Kardash en Glish.	None	
+27	8	0	0	2	플로린의 이젤라에게 가정용 약탕기 배달;칼페온의 제프리 에른에게 사랑의 묘약 No.6 배달;글리시의 카다슈에게 임프의 붉은 광석 배달;	Entregar la Olla de Medicinas Casera a Izella en Florin;Entregar la Poción de Amor No.6 a Geoffrey Erne en Calpheon;Entregar el Mineral Rojo de Diablillo a Kardash en Glish;	None	
+27	9	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 7] Misión de Entrega Urgente	None	
+27	9	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 견습 Lv6 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Aventura Extraña de Bartali a Amaranto en Glish. Entregar el Zapato de Piel de Lebyos a Laniero Lucci en Keplan. Entregar el Ladrillo de Barro de Glish a Angela en Calpheon.	None	
+27	9	0	0	2	글리시의 아마란토에게 바탈리의 기묘한 모험 배달;케플란의 라니에로 루치에게 러비오스의 가죽 신발 배달;칼페온의 안젤라에게 글리시 진흙 벽돌 배달;	Entregar la Aventura Extraña de Bartali a Amaranto en Glish;Entregar el Zapato de Piel de Lebyos a Laniero Lucci en Keplan;Entregar el Ladrillo de Barro de Glish a Angela en Calpheon;	None	
+27	10	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 7] Misión de Entrega Urgente	None	
+27	10	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 견습 Lv6 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Lanza de Hoja Lunar de Fogan a Ronatz en Calpheon. Entregar la Olla de Sal de Iliya a Fredelles Herba en Calpheon. Entregar el Vidrio Cristal de Velia a Irellio Lucci en Keplan.	None	
+27	10	0	0	2	칼페온의 로나츠에게 포건족 반월창 배달;칼페온의 프레델레스 허바에게 일리야산 소금 항아리 배달;케플란의 이렐리오 루치에게 벨리아산 크리스탈 유리 배달;	Entregar la Lanza de Hoja Lunar de Fogan a Ronatz en Calpheon;Entregar la Olla de Sal de Iliya a Fredelles Herba en Calpheon;Entregar el Vidrio Cristal de Velia a Irellio Lucci en Keplan;	None	
+27	11	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 7] Misión de Entrega Urgente	None	
+27	11	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 견습 Lv6 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Vidrio Cristal de Velia a Seilane en Glish. Entregar la Gorra Tradicional de Shais a Stella en Florin. Entregar el Zapato de Piel de Lebyos a Chistine Cessory en Keplan.	None	
+27	11	0	0	2	글리시의 세이레인에게 벨리아산 크리스탈 유리 배달;플로린의 스텔라에게 샤이족 전통모자 배달;케플란의 크리스틴 세서리에게 러비오스의 가죽 신발 배달;	Entregar el Vidrio Cristal de Velia a Seilane en Glish;Entregar la Gorra Tradicional de Shais a Stella en Florin;Entregar el Zapato de Piel de Lebyos a Chistine Cessory en Keplan;	None	
+27	12	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 4] Misión de Entrega Urgente	None	
+27	12	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 견습 Lv4 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Pelaje de Zorro al Trol Pecoso en Trent. Entregar la Aventura Extraña de Bartali a Phyria en Epheria. Entregar el Excremento de Ogro a Lilvanos en Keplan.	None	
+27	12	0	0	2	트렌트의 점박이 트롤에게 여우 모피 배달;에페리아의 피리아에게 바탈리의 기묘한 모험 배달;케플란의 릴바노스에게 오우거의 분비물 배달;	Entregar el Pelaje de Zorro al Trol Pecoso en Trent;Entregar la Aventura Extraña de Bartali a Phyria en Epheria;Entregar el Excremento de Ogro a Lilvanos en Keplan;	None	
+27	13	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Aprendiz 2] Misión de Entrega Urgente	None	
+27	13	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 견습 Lv2 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Set de Medicinas de Emergencia a Alchem en Calpheon. Entregar el Mineral Rojo de Diablillo a Irellio Lucci en Keplan. Entregar la Olla de Sal de Iliya a Olivia en Heidel.	None	
+27	13	0	0	2	칼페온의 알쳄에게 비상 약재 세트 배달;케플란의 이렐리오 루치에게 임프의 붉은 광석 배달;하이델의 올리비아에게 일리야산 소금 항아리 배달;	Entregar el Set de Medicinas de Emergencia a Alchem en Calpheon;Entregar el Mineral Rojo de Diablillo a Irellio Lucci en Keplan;Entregar la Olla de Sal de Iliya a Olivia en Heidel;	None	
+27	14	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 9] Misión de Entrega Urgente	None	
+27	14	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련 Lv9 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Estatua de Pez Suertudo a Ahr en Calpheon. Entregar la Estatua de Dragón de Oyun a Lilvayne en Calpheon. Entregar el Barro Seco de Freharau a Baori en la Isla de Iliya. Entregar la Lanza de Hoja Lunar de Fogan a Andria en Keplan.	None	
+27	14	0	0	2	칼페온의 아르에게 행운의 물고기 조각상 배달;칼페온의 릴베인에게 오윤의 용 조각상 배달;일리야섬의 바오리에게 프레하라우의 마른 진흙 배달;케플란의 안드리아에게 포건족 반월창 배달;	Entregar la Estatua de Pez Suertudo a Ahr en Calpheon;Entregar la Estatua de Dragón de Oyun a Lilvayne en Calpheon;Entregar el Barro Seco de Freharau a Baori en la Isla de Iliya;Entregar la Lanza de Hoja Lunar de Fogan a Andria en Keplan;	None	
+27	15	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 7] Misión de Entrega Urgente	None	
+27	15	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련 Lv7 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Incienso de Teviral a Ornella en Heidel. Entregar el Suministro de Primeros Auxilios para el Barrio Bajo de Calpheon a Ottavio Ferre en Velia. Entregar el Aceite de Piel de Fogan a Bevel en Trent. Entregar el Set de Listón de la Señora Pilaf a Lavientia Batian en Calpheon.	None	
+27	15	0	0	2	하이델의 오르넬라에게 테비랄 향초 배달;벨리아의 오타비오 페레에게 칼페온 빈민가 구호품 배달;트렌트의 베벨에게 포건 피부 기름 배달;칼페온의 라비엔샤 바시안에게 마담 필라프의 리본 세트 배달;	Entregar el Incienso de Teviral a Ornella en Heidel;Entregar el Suministro de Primeros Auxilios para el Barrio Bajo de Calpheon a Ottavio Ferre en Velia;Entregar el Aceite de Piel de Fogan a Bevel en Trent;Entregar el Set de Listón de la Señora Pilaf a Lavientia Batian en Calpheon;	None	
+27	16	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 4] Misión de Entrega Urgente	None	
+27	16	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련 Lv4 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Reactivo Rojo del Alquimista a Geranoa en Calpheon. Entregar el Pelaje de Zorro al Trol Pecoso en Trent. Entregar el Mineral de Hierro de Pureza Alta a Shurd en Keplan. Entregar la Pata Trasera de Fogan Seco a Baori en la Isla de Iliya.	None	
+27	16	0	0	2	칼페온의 게라노아에게 연금술사의 붉은 시약 배달;트렌트의 점박이 트롤에게 여우 모피 배달;케플란의 슈르드에게 순도 높은 철광석 배달;일리야섬의 바오리에게 말린 포건 뒷다리 배달;	Entregar el Reactivo Rojo del Alquimista a Geranoa en Calpheon;Entregar el Pelaje de Zorro al Trol Pecoso en Trent;Entregar el Mineral de Hierro de Pureza Alta a Shurd en Keplan;Entregar la Pata Trasera de Fogan Seco a Baori en la Isla de Iliya;	None	
+27	17	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Profesional 5] Misión de Entrega Urgente	None	
+27	17	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문 Lv5 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Retrato del Emperador a Philaberto Falasi en Epheria. Entregar la Tela de Aurobyl a Zilda en Velia. Entregar el Bulto de Libros Viejos a Enrico Mancini en Heidel. Entregar la Olla de Sal de Iliya a Deborah en Glish.	None	
+27	17	0	0	2	에페리아의 필라베르토 팔라시에게 황제의 초상화 배달;벨리아의 질다에게 오로빌 원단 배달;하이델의 엔리코 만시니에게 고서 꾸러미 배달;글리시의 데보라에게 일리야산 소금 항아리 배달;	Entregar el Retrato del Emperador a Philaberto Falasi en Epheria;Entregar la Tela de Aurobyl a Zilda en Velia;Entregar el Bulto de Libros Viejos a Enrico Mancini en Heidel;Entregar la Olla de Sal de Iliya a Deborah en Glish;	None	
+27	18	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 7] Misión de Entrega Urgente	None	
+27	18	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련 Lv7 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Fragmento Negro de Quimera a Srulk en Epheria. Entregar el Incienso de Teviral a Eileen en Velia. Entregar la Estatua de Espíritu de la Tierra a Ornella en Heidel. Entregar el Vidrio Cristal de Velia a Bianstimi en Calpheon.	None	
+27	18	0	0	2	에페리아의 스럴크에게 키메라의 검은 파편 배달;벨리아의 에일린에게 테비랄 향초 배달;하이델의 오르넬라에게 대지의 정령 조각상 배달;칼페온의 비안스티미에게 벨리아산 크리스탈 유리 배달;	Entregar el Fragmento Negro de Quimera a Srulk en Epheria;Entregar el Incienso de Teviral a Eileen en Velia;Entregar la Estatua de Espíritu de la Tierra a Ornella en Heidel;Entregar el Vidrio Cristal de Velia a Bianstimi en Calpheon;	None	
+27	19	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 8] Misión de Entrega Urgente	None	
+27	19	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련 Lv8 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Aceite de Piel de Fogan a Mayeri en Trent. Entregar el Huevo de Fogan Fresco a Phyria en Epheria. Entregar el Papalote de Deseo a Lillia en la Isla de Iliya. Entregar la Lanza de Hoja Lunar de Fogan a Ronatz en Calpheon.	None	
+27	19	0	0	2	트렌트의 마에리에게 포건 피부 기름 배달;에페리아의 피리아에게 신선한 포건 알 배달;일리야섬의 릴리아에게 소망 방패연 배달;칼페온의 로나츠에게 포건족 반월창 배달;	Entregar el Aceite de Piel de Fogan a Mayeri en Trent;Entregar el Huevo de Fogan Fresco a Phyria en Epheria;Entregar el Papalote de Deseo a Lillia en la Isla de Iliya;Entregar la Lanza de Hoja Lunar de Fogan a Ronatz en Calpheon;	None	
+27	20	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Profesional 7] Misión de Entrega Urgente	None	
+27	20	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 Lv2 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Rama de Roble Mágico a Stella en Florin. Entregar el Saco de Veneno de la Araña de Arbusto a Laniero Lucci en Keplan. Entregar la Olla de Sal de Iliya a Augusta en Trent. Entregar el Incienso de Teviral a Clorince en Velia.	None	
+27	20	0	0	2	플로린의 스텔라에게 마력 깃들 참나무 가지 배달;케플란의 라니에로 루치에게 풀숲 거미 독낭 배달;트렌트의 아우구스타에게 일리야산 소금 항아리 배달;벨리아의 클로린스에게 테비랄 향초 배달;	Entregar la Rama de Roble Mágico a Stella en Florin;Entregar el Saco de Veneno de la Araña de Arbusto a Laniero Lucci en Keplan;Entregar la Olla de Sal de Iliya a Augusta en Trent;Entregar el Incienso de Teviral a Clorince en Velia;	None	
+27	21	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Artesano 9] Misión de Entrega Urgente	None	
+27	21	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 장인 Lv9 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Analgésico de Valquiria a Isobelle Encarotia en Heidel. Entregar el Ungüento de Valentine a Baori en la Isla de Iliya. Entregar el Collar de Perla a Amaranto en Glish. Entregar el Mineral de Hierro de Pureza Alta a Andria en Keplan.	None	
+27	21	0	0	2	하이델의 이소벨 엔카로샤에게 발키리 진통제 배달;일리야섬의 바오리에게 발렌타인 고약 배달;글리시의 아마란토에게 진주 목걸이 배달;케플란의 안드리아에게 순도 높은 철광석 배달;	Entregar el Analgésico de Valquiria a Isobelle Encarotia en Heidel;Entregar el Ungüento de Valentine a Baori en la Isla de Iliya;Entregar el Collar de Perla a Amaranto en Glish;Entregar el Mineral de Hierro de Pureza Alta a Andria en Keplan;	None	
+27	22	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Profesional 9] Misión de Entrega Urgente	None	
+27	22	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문 Lv9 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Chaleco de Telaraña a Shurd en Keplan. Entregar el Queso de Montaña de Olvia a Fredelles Herba en Calpheon. Entregar el Tablón de Velia a Mayeri en Trent. Entregar la Estatua de Pez Suertudo a Ario en Calpheon.	None	
+27	22	0	0	2	케플란의 슈르드에게 거미줄 조끼 배달;칼페온의 프레델레스 허바에게 올비아산 마운틴 치즈 배달;트렌트의 마에리에게 벨리아산 목판 배달;칼페온의 아리오에게  행운의 물고기 조각상 배달;	Entregar el Chaleco de Telaraña a Shurd en Keplan;Entregar el Queso de Montaña de Olvia a Fredelles Herba en Calpheon;Entregar el Tablón de Velia a Mayeri en Trent;Entregar la Estatua de Pez Suertudo a Ario en Calpheon;	None	
+27	23	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Profesional 6] Misión de Entrega Urgente	None	
+27	23	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문 Lv6 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Punta de Flecha Envenenada a Lilvanos en Keplan. Entregar el Set de Transporte de Paleta a Baori en la Isla de Iliya. Entregar el Bulto de Libros Viejos a Enrico Mancini en Heidel. Entregar el Set de Ropa de Hada a Kanna en Glish.	None	
+27	23	0	0	2	케플란의 릴바노스에게 독 화살촉 배달;일리야섬의 바오리에게 팔레트 운반 세트 배달;하이델의 엔리코 만시니에게 고서 꾸러미 배달;글리시의 칸나에게 요정 의상 세트 배달;	Entregar la Punta de Flecha Envenenada a Lilvanos en Keplan;Entregar el Set de Transporte de Paleta a Baori en la Isla de Iliya;Entregar el Bulto de Libros Viejos a Enrico Mancini en Heidel;Entregar el Set de Ropa de Hada a Kanna en Glish;	None	
+27	24	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Profesional 2] Misión de Entrega Urgente	None	
+27	24	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 전문 Lv2 이상의 멤버가 필요합니다.<PAOldColor>	Entregar el Arma de Naga Confiscada a Psebor en Calpheon. Entregar los Zapatos de Piel de Lebyos al Trol Pecoso en Trent. Entregar el Paquete de Barbacoa de Puerco a Olivia en Heidel. Entregar la Salchicha de Pescado a Deborah en Glish.	None	
+27	24	0	0	2	칼페온의 프세보르에게 압수한 나가 무기 배달;트렌트의 점박이 트롤에게 러비오스의 가죽 신발 배달;하이델의 올리비아에게 포장된 통돼지 바비큐 배달;글리시의 데보라에게 생선 소시지 배달;	Entregar el Arma de Naga Confiscada a Psebor en Calpheon;Entregar los Zapatos de Piel de Lebyos al Trol Pecoso en Trent;Entregar el Paquete de Barbacoa de Puerco a Olivia en Heidel;Entregar la Salchicha de Pescado a Deborah en Glish;	None	
+27	25	0	0	0	[무역] 긴급한 배달 임무	[Comercio - Hábil 9] Misión de Entrega Urgente	None	
+27	25	0	0	1	의문의 주민으로부터 우리 길드에 긴급한 배달 임무가 들어왔다.\n<PAColor0xFF66CC33>무역 숙련 Lv9 이상의 멤버가 필요합니다.<PAOldColor>	Entregar la Estatua de Dragón de Oyun a Srulk en Epheria. Entregar el Huevo de Fogan Fresco a Lilvanos en Keplan. Entregar el Bulto de Herramienta Nueva del Enano a Mayeri de Trent;Entregar la Turba del Pantano Negro a Grandus en Calpheon.	None	
+27	25	0	0	2	에페리아의 스럴크에게 오윤의 용 조각상 배달;케플란의 릴바노스에게 신선한 포건 알 배달;트렌트의 마에리에게 드워프의 최신 공구 꾸러미 배달;칼페온의 그란더스에게 검은 습지 토탄 배달;	Entregar la Estatua de Dragón de Oyun a Srulk en Epheria;Entregar el Huevo de Fogan Fresco a Lilvanos en Keplan;Entregar el Bulto de Herramienta Nueva del Enano a Mayeri de Trent;Entregar la Turba del Pantano Negro a Grandus en Calpheon;	None	
+27	31	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	31	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia. Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia. Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia. Entregar la Especialidad de Heidel a Roig Mills en Heidel.	None	
+27	31	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia;Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia;Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia;Entregar la Especialidad de Heidel a Roig Mills en Heidel;	None	
+27	32	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	32	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia. Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia. Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia. Entregar la Especialidad de Heidel a Roig Mills en Heidel.	None	
+27	32	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia;Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia;Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia;Entregar la Especialidad de Heidel a Roig Mills en Heidel;	None	
+27	33	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	33	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia. Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia. Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia. Entregar la Especialidad de Heidel a Roig Mills en Heidel.	None	
+27	33	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia;Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia;Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia;Entregar la Especialidad de Heidel a Roig Mills en Heidel;	None	
+27	34	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	34	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia. Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia. Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia. Entregar la Especialidad de Heidel a Roig Mills en Heidel.	None	
+27	34	0	0	2	벨리아의 로자 클로코에게 결이 고운 물푸레나무 합판 위탁;벨리아의 로자 클로코에게 황금빛 구리 주괴 위탁;벨리아의 로자 클로코에게 신선한 닭고기 위탁;하이델의 로익 밀스에게 발레노스 특산품 납품;	Solicitar la Madera Contrachapada de Fresno Suave a Rosa Kloko en Velia;Solicitar el Lingote de Cobre Dorado a Rosa Kloko en Velia;Solicitar la Carne de Pollo Fresca a Rosa Kloko en Velia;Entregar la Especialidad de Heidel a Roig Mills en Heidel;	None	
+27	35	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	35	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel. Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel. Ofrecer la Lana Suave a Roig Mills en Heidel. Entregar la Especialidad de Serendia a Demiel Batian en Calpheon.	None	
+27	35	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel;Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel;Ofrecer la Lana Suave a Roig Mills en Heidel;Entregar la Especialidad de Serendia a Demiel Batian en Calpheon;	None	
+27	36	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	36	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel. Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel. Ofrecer la Lana Suave a Roig Mills en Heidel. Entregar la Especialidad de Serendia a Demiel Batian en Calpheon.	None	
+27	36	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel;Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel;Ofrecer la Lana Suave a Roig Mills en Heidel;Entregar la Especialidad de Serendia a Demiel Batian en Calpheon;	None	
+27	37	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	37	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel. Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel. Ofrecer la Lana Suave a Roig Mills en Heidel. Entregar la Especialidad de Serendia a Demiel Batian en Calpheon.	None	
+27	37	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel;Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel;Ofrecer la Lana Suave a Roig Mills en Heidel;Entregar la Especialidad de Serendia a Demiel Batian en Calpheon;	None	
+27	38	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	38	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel. Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel. Ofrecer la Lana Suave a Roig Mills en Heidel. Entregar la Especialidad de Serendia a Demiel Batian en Calpheon.	None	
+27	38	0	0	2	하이델의 로익 밀스에게 튼튼한 소나무 합판 위탁;하이델의 로익 밀스에게 순도 높은 납 주괴 위탁;하이델의 로익 밀스에게 부드러운 양털 제시;칼페온의 데미엘 바시안에게 세렌디아 특산품 납품;	Solicitar la Madera Contrachapada de Pino Sólido a Roig Mills en Heidel;Solicitar el Lingote de Plomo de Alta Pureza a Roig Mills en Heidel;Ofrecer la Lana Suave a Roig Mills en Heidel;Entregar la Especialidad de Serendia a Demiel Batian en Calpheon;	None	
+27	39	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	39	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon. Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon. Solicitar el Carbón Templado a Demiel Batian en Calpheon. Entregar la Especialidad de Calpheon a Elswin en Altinova.	None	
+27	39	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon;Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon;Solicitar el Carbón Templado a Demiel Batian en Calpheon;Entregar la Especialidad de Calpheon a Elswin en Altinova;	None	
+27	40	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	40	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon. Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon. Solicitar el Carbón Templado a Demiel Batian en Calpheon. Entregar la Especialidad de Calpheon a Elswin en Altinova.	None	
+27	40	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon;Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon;Solicitar el Carbón Templado a Demiel Batian en Calpheon;Entregar la Especialidad de Calpheon a Elswin en Altinova;	None	
+27	41	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	41	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon. Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon. Solicitar el Carbón Templado a Demiel Batian en Calpheon. Entregar la Especialidad de Calpheon a Elswin en Altinova.	None	
+27	41	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon;Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon;Solicitar el Carbón Templado a Demiel Batian en Calpheon;Entregar la Especialidad de Calpheon a Elswin en Altinova;	None	
+27	42	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	42	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon. Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon. Solicitar el Carbón Templado a Demiel Batian en Calpheon. Entregar la Especialidad de Calpheon a Elswin en Altinova.	None	
+27	42	0	0	2	칼페온의 데미엘 바시안에게 얇은 전나무 합판 위탁;칼페온의 데미엘 바시안에게 야만의 주석 주괴 위탁;칼페온의 데미엘 바시안에게 굳힌 석탄 위탁;알티노바의 엘스윈에게 칼페온 특산품 납품;	Solicitar la Madera Contrachapada de Abeto Delgada a Demiel Batian en Calpheon;Solicitar el Lingote de Estaño de Bárbaro a Demiel Batian en Calpheon;Solicitar el Carbón Templado a Demiel Batian en Calpheon;Entregar la Especialidad de Calpheon a Elswin en Altinova;	None	
+27	43	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	43	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova. Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova. Solicitar la Canela Picante a Elswin en Altinova. Entregar la Especialidad de Mediah a Givel Taric en Valencia.	None	
+27	43	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova;Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova;Solicitar la Canela Picante a Elswin en Altinova;Entregar la Especialidad de Mediah a Givel Taric en Valencia;	None	
+27	44	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	44	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova. Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova. Solicitar la Canela Picante a Elswin en Altinova. Entregar la Especialidad de Mediah a Givel Taric en Valencia.	None	
+27	44	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova;Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova;Solicitar la Canela Picante a Elswin en Altinova;Entregar la Especialidad de Mediah a Givel Taric en Valencia;	None	
+27	45	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	45	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova. Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova. Solicitar la Canela Picante a Elswin en Altinova. Entregar la Especialidad de Mediah a Givel Taric en Valencia.	None	
+27	45	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova;Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova;Solicitar la Canela Picante a Elswin en Altinova;Entregar la Especialidad de Mediah a Givel Taric en Valencia;	None	
+27	46	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	46	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova. Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova. Solicitar la Canela Picante a Elswin en Altinova. Entregar la Especialidad de Mediah a Givel Taric en Valencia.	None	
+27	46	0	0	2	알티노바의 엘스윈에게 향긋한 아카시아 합판 위탁;알티노바의 엘스윈에게 순도 높은 아연 주괴 위탁;알티노바의 엘스윈에게 톡 쏘는 계피 위탁;발렌시아의 지벨 타릭에게 메디아 특산품 납품;	Solicitar la Madera Contrachapada de Acacia Aromática a Elswin en Altinova;Solicitar el Lingote de Zinc de Alta Pureza a Elswin en Altinova;Solicitar la Canela Picante a Elswin en Altinova;Entregar la Especialidad de Mediah a Givel Taric en Valencia;	None	
+27	47	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	47	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia. Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia. Solicitar el Higo Dulce a Givel Taric en Valencia. Entregar la Especialidad de Valencia a Elswin en Altinova.	None	
+27	47	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;알티노바의 엘스윈에게 발렌시아 특산품 납품;	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia;Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia;Solicitar el Higo Dulce a Givel Taric en Valencia;Entregar la Especialidad de Valencia a Elswin en Altinova;	None	
+27	48	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	48	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia. Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia. Solicitar el Higo Dulce a Givel Taric en Valencia. Entregar la Especialidad de Valencia a Roig Mills en Valencia.	None	
+27	48	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;하이델의 로익 밀스에게 발렌시아 특산품 납품;	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia;Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia;Solicitar el Higo Dulce a Givel Taric en Valencia;Entregar la Especialidad de Valencia a Roig Mills en Valencia;	None	
+27	49	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	49	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia. Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia. Solicitar el Higo Dulce a Givel Taric en Valencia. Entregar la Especialidad de Valencia a Rosa Kloko en Velia.	None	
+27	49	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;벨리아의 로자 클로코에게 발렌시아 특산품 납품;	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia;Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia;Solicitar el Higo Dulce a Givel Taric en Valencia;Entregar la Especialidad de Valencia a Rosa Kloko en Velia;	None	
+27	50	0	0	0	[무역] 지역 경제 활성화	[Comercio] Revitalización de la Economía Local	None	
+27	50	0	0	1	황실로부터 우리 길드에 납품 제안이 들어왔다. 황실 무역 관리인을 통해 특별한 물품을 납품하면 풍족한 보상을 주겠다고 전해왔다.<PAColor0xFF66CC33>※ 이 의뢰는 반드시 길드 대장과 함께 진행해야 합니다.<PAOldColor>	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia. Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia;Solicitar el Higo Dulce a Givel Taric en Valencia. Entregar la Especialidad de Valencia a Demiel Batian en Calpheon.	None	
+27	50	0	0	2	발렌시아의 지벨 타릭에게 탄성이 뛰어난 야자수 합판 위탁;발렌시아의 지벨 타릭에게 절연용 바나듐 주괴 위탁;발렌시아의 지벨 타릭에게 당도 높은 무화과 위탁;칼페온의 데미엘 바시안에게 발렌시아 특산품 납품;	Solicitar la Madera Contrachapada de Palmera Elástica a Givel Taric en Valencia;Solicitar el Lingote de Vanadio Aislante a Givel Taric en Valencia;Solicitar el Higo Dulce a Givel Taric en Valencia;Entregar la Especialidad de Valencia a Demiel Batian en Calpheon;	None	
+27	201	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	201	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[700] Recolectar Piedras Ásperas.	None	
+27	201	0	0	2	거친석재 채집;	Recolectar Piedras Ásperas;	None	
+27	202	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	202	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[800] Recolectar Troncos de Árbol.	None	
+27	202	0	0	2	통나무 채집;	Recolectar Troncos de Árbol;	None	
+27	203	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	203	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[300] Recolectar Minerales de Hierro.	None	
+27	203	0	0	2	철 광석 채집;	Recolectar Minerales de Hierro;	None	
+27	204	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	204	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Madera de Fresno.	None	
+27	204	0	0	2	물푸레나무 원목 채집;	Recolectar Madera de Fresno;	None	
+27	205	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	205	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Madera de Pino.	None	
+27	205	0	0	2	소나무 원목 채집;	Recolectar Madera de Pino;	None	
+27	206	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	206	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[8] Recolectar Minerales de Ópalo. [100] Procesar Piezas de Hierro Derretido.	None	
+27	206	0	0	2	오팔 원석 채집;녹아내린 철 조각 가공;	Recolectar Minerales de Ópalo; Procesar Piezas de Hierro Derretido;	None	
+27	207	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	207	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[100] Pescar Gobidos Secos.	None	
+27	207	0	0	2	망둥어 낚기;	Pescar Gobidos Secos;	None	
+27	208	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	208	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Madera de Abedul.	None	
+27	208	0	0	2	자작나무 원목 채집;	Recolectar Madera de Abedul;	None	
+27	209	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	209	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Madera de Arce.	None	
+27	209	0	0	2	단풍나무 원목 채집;	Recolectar Madera de Arce;	None	
+27	210	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	210	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Madera de Abeto.	None	
+27	210	0	0	2	전나무 원목 채집;	Recolectar Madera de Abeto;	None	
+27	211	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	211	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Madera de Cedro.	None	
+27	211	0	0	2	삼나무 원목 채집;	Recolectar Madera de Cedro;	None	
+27	214	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	214	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Abeto. [180] Recolectar Madera de Abedul.	None	
+27	214	0	0	2	전나무 원목 채집;자작나무 원목 채집;	Recolectar Madera de Abeto; Recolectar Madera de Abedul;	None	
+27	215	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	215	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Arce. [180] Recolectar Madera de Abedul.	None	
+27	215	0	0	2	단풍나무 원목 채집;자작나무 원목 채집;	Recolectar Madera de Arce; Recolectar Madera de Abedul;	None	
+27	216	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	216	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[800] Recolectar Piedras Ásperas. [80] Procesar Piedras Pulidas.	None	
+27	216	0	0	2	거친석재 채집;다듬어진 석재 가공;	Recolectar Piedras Ásperas; Procesar Piedras Pulidas;	None	
+27	217	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	217	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[900] Recolectar Troncos de Árbol. [90] Procesar Madera Decente.	None	
+27	217	0	0	2	통나무 채집;쓸만한 각목 가공;	Recolectar Troncos de Árbol; Procesar Madera Decente;	None	
+27	218	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	218	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[900] Recolectar Troncos de Árbol. [30] Procesar Madera Contrachapada de Pino. [30] Procesar Madera Contrachapada de Abeto.	None	
+27	218	0	0	2	통나무 채집;소나무 합판 가공하기;전나무 합판 가공하기;	Recolectar Troncos de Árbol; Procesar Madera Contrachapada de Pino; Procesar Madera Contrachapada de Abeto;	None	
+27	219	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	219	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[30] Pescar Pez Espada.	None	
+27	219	0	0	2	새치 낚기;	Pescar Pez Espada;	None	
+27	220	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	220	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1000] Recolectar Piedras Ásperas.	None	
+27	220	0	0	2	거친 석재 채집;	Recolectar Piedras Ásperas;	None	
+27	221	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	221	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1000] Recolectar Piedras Ásperas. [100] Procesar Piedras Pulidas.	None	
+27	221	0	0	2	거친석재 채집;다듬어진 석재 가공;	Recolectar Piedras Ásperas;Procesar Piedras Pulidas;	None	
+27	222	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	222	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[60] Pescar Clupea.	None	
+27	222	0	0	2	청어 낚기;	Pescar Clupea;	None	
+27	223	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	223	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1200] Recolectar Troncos de Árbol. [50] Procesar Madera Contrachapada de Pino Sólido. [50] Procesar Madera Contrachapada de Abeto Sólido.	None	
+27	223	0	0	2	통나무 채집;견고한 소나무 합판 가공;견고한 전나무 합판 가공;	Recolectar Troncos de Árbol; Procesar Madera Contrachapada de Pino Sólido; Procesar Madera Contrachapada de Abeto Sólido;	None	
+27	224	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	224	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1300] Recolectar Troncos de Árbol.	None	
+27	224	0	0	2	통나무 채집;	Recolectar Troncos de Árbol;	None	
+27	225	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	225	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1200] Recolectar Piedras Ásperas.	None	
+27	225	0	0	2	거친 석재 채집;	Recolectar Piedras Ásperas;	None	
+27	226	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	226	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1400] Recolectar Piedras Ásperas. [200] Procesar Piedras Pulidas.	None	
+27	226	0	0	2	거친 석재 채집;다듬어진 석재 가공;	Recolectar Piedras Ásperas; Procesar Piedras Pulidas;	None	
+27	227	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	227	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1600] Recolectar Troncos de Árbol. [200] Procesar Madera Decente.	None	
+27	227	0	0	2	통나무 채집;쓸만한 각목 가공;	Recolectar Troncos de Árbol; Procesar Madera Decente;	None	
+27	228	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	228	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[10] Pescar Pargo de Neblina.	None	
+27	228	0	0	2	연무자리 돔 낚기;	Pescar Pargo de Neblina;	None	
+27	229	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	229	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1800] Recolectar Troncos de Árbol.	None	
+27	229	0	0	2	통나무 채집;	Recolectar Troncos de Árbol;	None	
+27	230	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	230	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[1600] Recolectar Piedras Ásperas.	None	
+27	230	0	0	2	거친 석재 채집;	Recolectar Piedras Ásperas;	None	
+27	234	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	234	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[4] Pescar Grunt.	None	
+27	234	0	0	2	벤자리 낚기;	Pescar Grunt;	None	
+27	235	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	235	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[6] Pescar Grunt.	None	
+27	235	0	0	2	벤자리 낚기;	Pescar Grunt;	None	
+27	236	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	236	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[8] Pescar Grunt.	None	
+27	236	0	0	2	벤자리 낚기;	Pescar Grunt;	None	
+27	237	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	237	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[10] Pescar Grunt.	None	
+27	237	0	0	2	벤자리 낚기;	Pescar Grunt;	None	
+27	238	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	238	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[350] Recolectar Piedras Ásperas.	None	
+27	238	0	0	2	거친석재 채집;	Recolectar Piedras Ásperas;	None	
+27	239	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	239	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[400] Recolectar Troncos de Árbol.	None	
+27	239	0	0	2	통나무 채집;	Recolectar Troncos de Árbol;	None	
+27	240	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	240	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[100] Recolectar Minerales de Hierro.	None	
+27	240	0	0	2	철 광석 채집;	Recolectar Minerales de Hierro;	None	
+27	241	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	241	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Fresno.	None	
+27	241	0	0	2	물푸레나무 원목 채집;	Recolectar Madera de Fresno;	None	
+27	242	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	242	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Pino.	None	
+27	242	0	0	2	소나무 원목 채집;	Recolectar Madera de Pino;	None	
+27	243	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	243	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[5] Recolectar Minerales de Ópalo. [50] Procesar Piezas de Hierro Derretido.	None	
+27	243	0	0	2	오팔 원석 채집;녹아내린 철 조각 가공;	Recolectar Minerales de Ópalo; Procesar Piezas de Hierro Derretido;	None	
+27	244	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	244	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[50] Pescar Gobidos Seco.	None	
+27	244	0	0	2	망둥어 낚기;	Pescar Gobidos Seco;	None	
+27	245	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	245	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Abedul.	None	
+27	245	0	0	2	자작나무 원목 채집;	Recolectar Madera de Abedul;	None	
+27	246	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	246	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Arce.	None	
+27	246	0	0	2	단풍나무 원목 채집;	Recolectar Madera de Arce;	None	
+27	247	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	247	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Abeto.	None	
+27	247	0	0	2	전나무 원목 채집;	Recolectar Madera de Abeto;	None	
+27	248	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	248	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Cedro.	None	
+27	248	0	0	2	삼나무 원목 채집;	Recolectar Madera de Cedro;	None	
+27	249	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	249	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[90] Recolectar Madera de Abeto. [90] Recolectar Madera de Abedul.	None	
+27	249	0	0	2	전나무 원목 채집;자작나무 원목 채집;	Recolectar Madera de Abeto; Recolectar Madera de Abedul;	None	
+27	250	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	250	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[90] Recolectar Madera de Arce. [90] Recolectar Madera de Abedul.	None	
+27	250	0	0	2	단풍나무 원목 채집;자작나무 원목 채집;	Recolectar Madera de Arce; Recolectar Madera de Abedul;	None	
+27	251	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	251	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[2] Pescar Grunt.	None	
+27	251	0	0	2	벤자리 낚기;	Pescar Grunt;	None	
+27	252	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	252	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[180] Recolectar Madera de Palmeras. [180] Recolectar Madera de Sauco Negro.	None	
+27	252	0	0	2	야자수 원목 채집;딱총나무 원목 채집;	Recolectar Madera de Palmeras; Recolectar Madera de Sauco Negro;	None	
+27	253	0	0	0	[채집] 길드 물자 조달 임무	[Recolección] Suministro de Materiales al Gremio	None	
+27	253	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[360] Recolectar Cáscara de Cactus.	None	
+27	253	0	0	2	선인장 껍질 채집;	Recolectar Cáscara de Cactus;	None	
+27	254	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	254	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[35] Pescar Verdel.	None	
+27	254	0	0	2	고등어 낚기;	Pescar Verdel;	None	
+27	255	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	255	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[70] Pescar Pez Globo.	None	
+27	255	0	0	2	복어 낚기;	Pescar Pez Globo;	None	
+27	256	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	256	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[10] Pescar Pargo de Neblina.	None	
+27	256	0	0	2	연무자리돔 낚기;	Pescar Pargo de Neblina;	None	
+27	257	0	0	0	[채집] 길드 물자 조달 임무	[Pesca] Suministro de Materiales al Gremio	None	
+27	257	0	0	1	우리 길드가 마을에 정착하기 위해서는 그 마을 창고에 충분한 자재가 필요하다. 이 재료들은 추후 클랜과 길드를 위한 생산 활동에서 중요한 역할을 하게된다. 길드의 미래를 위해 미리 준비하자.	[150] Pescar Clupea. [15] Pescar Pargo.	None	
+27	257	0	0	2	청어 낚기;돔 낚기;	Pescar Clupea; Pescar Pargo;	None	
+27	273	0	0	0	[채집] 마고리아의 모험가 I	[Recolección] El Aventurero de Magoria I	None	
+27	273	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[40] Recolección de Fragmento de Coral. [40] Recolección de Ostión. [10] Recolección de Almeja. [5] Pesca de Marlin.	None	
+27	273	0	0	2	산호 조각 채집;굴 채집;대합 조개 채집;황새치 낚기;	Recolección de Fragmento de Coral;Recolección de Ostión;Recolección de Almeja;Pesca de Marlin;	None	
+27	274	0	0	0	[채집] 마고리아의 모험가 II	[Recolección] El Aventurero de Magoria II	None	
+27	274	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[40] Recolección de Fragmento de Coral. [40] Recolección de Algas Marinas. [10] Recolección de Almeja. [5] Pesca de Pargo.	None	
+27	274	0	0	2	산호 조각 채집;해조 채집;대합 조개 채집;돔 낚기;	Recolección de Fragmento de Coral;Recolección de Algas Marinas;Recolección de Almeja;Pesca de Pargo;	None	
+27	275	0	0	0	[채집] 마고리아의 모험가 III	[Recolección] El Aventurero de Magoria III	None	
+27	275	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[60] Recolección de Fragmento de Coral. [60] Recolección de Ostión. [20] Recolección de Almeja. [10] Pesca de Pez Atún.	None	
+27	275	0	0	2	산호 조각 채집;굴 채집;대합 조개 채집;참치 낚기;	Recolección de Fragmento de Coral;Recolección de Ostión;Recolección de Almeja;Pesca de Pez Atún;	None	
+27	276	0	0	0	[채집] 마고리아의 모험가 IV	[Recolección] El Aventurero de Magoria IV	None	
+27	276	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[60] Recolección de Fragmento de Coral. [60] Recolección de Algas Marinas. [20] Recolección de Almeja. [10] Pesca de Pargo Judío Rayado.	None	
+27	276	0	0	2	산호 조각 채집;해조 채집;대합 조개 채집;돗돔 낚기;	Recolección de Fragmento de Coral;Recolección de Algas Marinas;Recolección de Almeja;Pesca de Pargo Judío Rayado;	None	
+27	277	0	0	0	[채집] 마고리아의 모험가 V	[Recolección] El Aventurero de Magoria V	None	
+27	277	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[80] Recolección de Laminaria Marina. [80] Recolección de Ostión. [30] Recolección de Almeja. [15] Pesca de Pez Espada Rayado.	None	
+27	277	0	0	2	다시마 채집;굴 채집;대합 조개 채집;청새치 낚기;	Recolección de Laminaria Marina;Recolección de Ostión;Recolección de Almeja;Pesca de Pez Espada Rayado;	None	
+27	278	0	0	0	[채집] 마고리아의 모험가 VI	[Recolección] El Aventurero de Magoria VI	None	
+27	278	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[80] Recolección de Laminaria Marina. [80] Recolección de Alga Marina. [30] Recolección de Almeja. [15] Pesca de Pez Girella.	None	
+27	278	0	0	2	다시마 채집;해조 채집;대합 조개 채집;벵에돔 낚기;	Recolección de Laminaria Marina;Recolección de Alga Marina;Recolección de Almeja;Pesca de Pez Girella;	None	
+27	279	0	0	0	[채집] 마고리아의 모험가 VII	[Recolección] El Aventurero de Magoria VII	None	
+27	279	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[100] Recolección de Laminaria Marina. [100] Recolección de Ostión. [40] Recolección de Almeja. [20] Pesca de Pez Luna.	None	
+27	279	0	0	2	다시마 채집;굴 채집;대합 조개 채집;개복치 낚기;	Recolección de Laminaria Marina;Recolección de Ostión;Recolección de Almeja;Pesca de Pez Luna;	None	
+27	280	0	0	0	[채집] 마고리아의 모험가 VIII	[Recolección] El Aventurero de Magoria VIII	None	
+27	280	0	0	1	그믐달 길드로부터 특급 의뢰가 들어왔다. 마고리아 해로 진출하여, 앞으로 다가올 위협에 대비해 모험가 길드의 물자를 풍족하게 축적할 것을 주문했다. 길드원과 협동해서 임무를 완수하자.	[100] Recolección de Laminaria Marina. [100] Recolección de Alga Marina. [40] Recolección de Almeja. [20] Pesca de Caballa Rayada.	None	
+27	280	0	0	2	다시마 채집;해조 채집;대합 조개 채집;줄삼치 낚기;	Recolección de Laminaria Marina;Recolección de Alga Marina;Recolección de Almeja;Pesca de Caballa Rayada;	None	
+27	401	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	401	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	401	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	402	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	402	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	402	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	403	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	403	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[40] Eliminar al Cíclope.	None	
+27	403	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	404	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	404	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Esqueletos en el Santuario de Hexe.	None	
+27	404	0	0	2	헥세 성역의 해골들 처치;	Eliminar a los Esqueletos en el Santuario de Hexe;	None	
+27	405	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	405	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Manshas en el Suroeste de Calpheon.	None	
+27	405	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Eliminar a los Manshas en el Suroeste de Calpheon;	None	
+27	406	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	406	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	406	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	407	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	407	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3200] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	407	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	408	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	408	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[65] Eliminar al Cíclope.	None	
+27	408	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	409	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	409	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2800] Eliminar a los Esqueletos del Santuario de Hexe.	None	
+27	409	0	0	2	헥세 성역의 해골 처치;	Eliminar a los Esqueletos del Santuario de Hexe;	None	
+27	410	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	410	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Manshas en el Suroeste de Calpheon.	None	
+27	410	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Eliminar a los Manshas en el Suroeste de Calpheon;	None	
+27	411	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	411	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	411	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	412	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	412	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	412	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	413	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	413	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[100] Eliminar al Cíclope.	None	
+27	413	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	414	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	414	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Esqueletos del Santuario de Hexe.	None	
+27	414	0	0	2	헥세 성역의 해골 처치;	Eliminar a los Esqueletos del Santuario de Hexe;	None	
+27	415	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	415	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Manshas en el Suroeste de Calpheon.	None	
+27	415	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Eliminar a los Manshas en el Suroeste de Calpheon;	None	
+27	416	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	416	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	416	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	417	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	417	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6500] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	417	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	418	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	418	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[150] Eliminar al Cíclope.	None	
+27	418	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	419	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	419	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5000] Eliminar a los Esqueletos del Santuario de Hexe.	None	
+27	419	0	0	2	헥세 성역의 해골 처치;	Eliminar a los Esqueletos del Santuario de Hexe;	None	
+27	420	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	420	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Manshas en el Suroeste de Calpheon.	None	
+27	420	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Eliminar a los Manshas en el Suroeste de Calpheon;	None	
+27	421	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	421	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	421	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	422	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	422	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	422	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	423	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	423	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	423	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	424	0	0	0	[토벌] 주민들의 도움 요청	[SCalpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	424	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	424	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	425	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	425	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1500] Eliminar la manada en el Templo de Calpheon.	None	
+27	425	0	0	2	칼페온 신전 무리를 처치;	Eliminar la manada en el Templo de Calpheon;	None	
+27	426	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	426	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar la manada en el Templo de Calpheon.	None	
+27	426	0	0	2	칼페온 신전 무리를 처치;	Eliminar la manada en el Templo de Calpheon;	None	
+27	427	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	427	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3700] Eliminar la manada en el Templo de Calpheon.	None	
+27	427	0	0	2	칼페온 신전 무리를 처치;	Eliminar la manada en el Templo de Calpheon;	None	
+27	428	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	428	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminar la manada en el Templo de Calpheon.	None	
+27	428	0	0	2	칼페온 신전 무리를 처치;	Eliminar la manada en el Templo de Calpheon;	None	
+27	429	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	429	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	429	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	430	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	430	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[800] Eliminar a los Treants en el Suroeste de Calpheon.	None	
+27	430	0	0	2	칼페온 서남부 엔트 무리 처치;	Eliminar a los Treants en el Suroeste de Calpheon;	None	
+27	431	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	431	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[20] Eliminar al Cíclope.	None	
+27	431	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	432	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	432	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[800] Eliminar a los Esqueletos en el Santuario de Hexe.	None	
+27	432	0	0	2	헥세 성역의 해골들 처치;	Eliminar a los Esqueletos en el Santuario de Hexe;	None	
+27	433	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	433	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Manshas en el Suroeste de Calpheon.	None	
+27	433	0	0	2	칼페온 서남부 지역의 만샤족 처치;	Eliminar a los Manshas en el Suroeste de Calpheon;	None	
+27	434	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	434	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	434	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	435	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	435	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[700] Eliminar la manada en el Templo de Calpheon.	None	
+27	435	0	0	2	칼페온 신전 무리를 처치;	Eliminar la manada en el Templo de Calpheon;	None	
+27	436	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	436	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1200] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	436	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	437	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	437	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1200] Eliminar a los Yelmos de Mediah.	None	
+27	437	0	0	2	메디아 투구족 처치;	Eliminar a los Yelmos de Mediah;	None	
+27	438	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	438	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[800] Eliminar a los Sausans de Mediah.	None	
+27	438	0	0	2	메디아 소산족 처치;	Eliminar a los Sausans de Mediah;	None	
+27	439	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	439	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Seguidores de Elric de Mediah.	None	
+27	439	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Eliminar a los Seguidores de Elric de Mediah;	None	
+27	440	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	440	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1200] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	440	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	441	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	441	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	441	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	442	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	442	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Yelmos de Mediah.	None	
+27	442	0	0	2	메디아 투구족 처치;	Eliminar a los Yelmos de Mediah;	None	
+27	443	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	443	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Sausans de Mediah.	None	
+27	443	0	0	2	메디아 소산족 처치;	Eliminar a los Sausans de Mediah;	None	
+27	444	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	444	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2200] Eliminar a los Seguidores de Elric de Mediah.	None	
+27	444	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Eliminar a los Seguidores de Elric de Mediah;	None	
+27	445	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	445	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2200] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	445	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	446	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	446	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3200] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	446	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	447	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	447	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3200] Eliminar a los Yelmos de Mediah.	None	
+27	447	0	0	2	메디아 투구족 처치;	Eliminar a los Yelmos de Mediah;	None	
+27	448	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	448	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2300] Eliminar a los Sausans de Mediah.	None	
+27	448	0	0	2	메디아 소산족 처치;	Eliminar a los Sausans de Mediah;	None	
+27	449	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	449	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2900] Eliminar a los Seguidores de Elric de Mediah.	None	
+27	449	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Eliminar a los Seguidores de Elric de Mediah;	None	
+27	450	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	450	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3000] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	450	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	451	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	451	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	451	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	452	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	452	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4200] Eliminar a los Yelmos de Mediah.	None	
+27	452	0	0	2	메디아 투구족 처치;	Eliminar a los Yelmos de Mediah;	None	
+27	453	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	453	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3300] Eliminar a los Sausans de Mediah.	None	
+27	453	0	0	2	메디아 소산족 처치;	Eliminar a los Sausans de Mediah;	None	
+27	454	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	454	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4200] Eliminar a los Seguidores de Elric de Mediah.	None	
+27	454	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Eliminar a los Seguidores de Elric de Mediah;	None	
+27	455	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	455	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	455	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	456	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	456	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6800] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	456	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	457	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	457	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6300] Eliminar a los Yelmos de Mediah.	None	
+27	457	0	0	2	메디아 투구족 처치;	Eliminar a los Yelmos de Mediah;	None	
+27	458	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	458	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5600] Eliminar a los Sausans de Mediah.	None	
+27	458	0	0	2	메디아 소산족 처치;	Eliminar a los Sausans de Mediah;	None	
+27	459	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	459	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5200] Eliminar a los Seguidores de Elric de Mediah.	None	
+27	459	0	0	2	메디아 엘릭 수도원의 신도들 처치;	Eliminar a los Seguidores de Elric de Mediah;	None	
+27	460	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	460	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6100] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	460	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	461	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	461	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3800] Eliminar a los Centauros de Valencia.	None	
+27	461	0	0	2	발렌시아 켄타우로스 처치;	Eliminar a los Centauros de Valencia;	None	
+27	462	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	462	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3800] Eliminar a los Basiliscos de Valencia.	None	
+27	462	0	0	2	발렌시아 바실리스크 처치;	Eliminar a los Basiliscos de Valencia;	None	
+27	463	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	463	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1500] Eliminar a los Centauros de Valencia.	None	
+27	463	0	0	2	발렌시아 켄타우로스 처치;	Eliminar a los Centauros de Valencia;	None	
+27	464	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	464	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1500] Eliminar a los Basiliscos de Valencia.	None	
+27	464	0	0	2	발렌시아 바실리스크 처치;	Eliminar a los Basiliscos de Valencia;	None	
+27	465	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	465	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Centauros de Valencia.	None	
+27	465	0	0	2	발렌시아 켄타우로스 처치;	Eliminar a los Centauros de Valencia;	None	
+27	466	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	466	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Basiliscos de Valencia.	None	
+27	466	0	0	2	발렌시아 바실리스크 처치;	Eliminar a los Basiliscos de Valencia;	None	
+27	467	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	467	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2800] Eliminar a los Centauros de Valencia.	None	
+27	467	0	0	2	발렌시아 켄타우로스 처치;	Eliminar a los Centauros de Valencia;	None	
+27	468	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	468	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2800] Eliminar a los Basiliscos de Valencia.	None	
+27	468	0	0	2	발렌시아 바실리스크 처치;	Eliminar a los Basiliscos de Valencia;	None	
+27	469	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	469	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	469	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	470	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	470	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[800] Eliminar a los Treants en el Suroeste de Calpheon.	None	
+27	470	0	0	2	칼페온 서남부 엔트 무리 처치;	Eliminar a los Treants en el Suroeste de Calpheon;	None	
+27	471	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	471	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[20] Eliminar al Cíclope.	None	
+27	471	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	472	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	472	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	472	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	473	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	473	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1200] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	473	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	474	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	474	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1200] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	474	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	475	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	475	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	475	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	476	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	476	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	476	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	477	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	477	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[40] Eliminar al Cíclope.	None	
+27	477	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	478	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	478	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	478	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	479	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	479	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2000] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	479	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	480	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	480	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2200] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	480	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	481	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	481	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	481	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	482	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	482	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3200] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	482	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	483	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	483	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[65] Eliminar al Cíclope.	None	
+27	483	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	484	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	484	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	484	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	485	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	485	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3200] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	485	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	486	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	486	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3000] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	486	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	487	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	487	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	487	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	488	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	488	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	488	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	489	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	489	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[100] Eliminar al Cíclope.	None	
+27	489	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	490	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	490	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	490	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	491	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	491	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	491	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	492	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	492	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	492	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	493	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	493	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan.	None	
+27	493	0	0	2	케플란 거인족 주둔지의 거인족 처치;	Eliminar a los Gigantes en el Campamento de los Gigantes de Keplan;	None	
+27	494	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	494	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6500] Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon.	None	
+27	494	0	0	2	칼페온 서남부 나무 정령 처치;	Eliminar a los Espíritus de Árbol en el Suroeste de Calpheon;	None	
+27	495	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	495	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[150] Eliminar al Cíclope.	None	
+27	495	0	0	2	외눈박이 거인 처치;	Eliminar al Cíclope;	None	
+27	496	0	0	0	[토벌] 주민들의 도움 요청	[Calpheon] Solicitud de Ayuda de los Aldeanos	None	
+27	496	0	0	1	칼페온 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Rhutums en el Suroeste de Calpheon.	None	
+27	496	0	0	2	칼페온 서남부 지역의 루툼족 처치;	Eliminar a los Rhutums en el Suroeste de Calpheon;	None	
+27	497	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	497	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6800] Eliminar a los Bárbaros en la Mina Abandonada de Mediah.	None	
+27	497	0	0	2	메디아 폐철광산 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada de Mediah;	None	
+27	498	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	498	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6100] Eliminar a los Ladrones Vagabundos de Mediah.	None	
+27	498	0	0	2	메디아 방랑도적 주둔지의 도적들 처치;	Eliminar a los Ladrones Vagabundos de Mediah;	None	
+27	499	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	499	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Bashims de Valencia.	None	
+27	499	0	0	2	발렌시아 바심족 처치;	Eliminar a los Bashims de Valencia;	None	
+27	500	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	500	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Fanáticos de Cadry.	None	
+27	500	0	0	2	발렌시아 카드리 광신도 처치;	Eliminar a los Fanáticos de Cadry;	None	
+27	502	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	502	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminara los Fogans de Desierto de Valencia.	None	
+27	502	0	0	2	발렌시아 사막 포건 처치;	Eliminara los Fogans de Desierto de Valencia;	None	
+27	503	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	503	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Fanáticos de Luna Creciente de Valencia.	None	
+27	503	0	0	2	발렌시아 초승달 광신도 처치;	Eliminar a los Fanáticos de Luna Creciente de Valencia;	None	
+27	504	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	504	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Nagas de Desierto de Valencia.	None	
+27	504	0	0	2	발렌시아 사막 나가 처치;	Eliminar a los Nagas de Desierto de Valencia;	None	
+27	505	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	505	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1800] Eliminar a los Bandidos de Gahaz de Valencia.	None	
+27	505	0	0	2	발렌시아 가하즈 도적단 처치;	Eliminar a los Bandidos de Gahaz de Valencia;	None	
+27	506	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	506	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Bashims de Valencia.	None	
+27	506	0	0	2	발렌시아 바심족 처치;	Eliminar a los Bashims de Valencia;	None	
+27	507	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	507	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Fanáticos de Cadry.	None	
+27	507	0	0	2	발렌시아 카드리 광신도 처치;	Eliminar a los Fanáticos de Cadry;	None	
+27	509	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	509	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminara los Fogans de Desierto de Valencia.	None	
+27	509	0	0	2	발렌시아 사막 포건 처치;	Eliminara los Fogans de Desierto de Valencia;	None	
+27	510	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	510	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Fanáticos de Luna Creciente de Valencia.	None	
+27	510	0	0	2	발렌시아 초승달 광신도 처치;	Eliminar a los Fanáticos de Luna Creciente de Valencia;	None	
+27	511	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	511	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Nagas de Desierto de Valencia.	None	
+27	511	0	0	2	발렌시아 사막 나가 처치;	Eliminar a los Nagas de Desierto de Valencia;	None	
+27	512	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	512	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Bandidos de Gahaz de Valencia.	None	
+27	512	0	0	2	발렌시아 가하즈 도적단 처치;	Eliminar a los Bandidos de Gahaz de Valencia;	None	
+27	513	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	513	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Eliminar a los Bashims de Valencia.	None	
+27	513	0	0	2	발렌시아 바심족 처치;	Eliminar a los Bashims de Valencia;	None	
+27	514	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	514	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Eliminar a los Fanáticos de Cadry.	None	
+27	514	0	0	2	발렌시아 카드리 광신도 처치;	Eliminar a los Fanáticos de Cadry;	None	
+27	516	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	516	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Eliminara los Fogans de Desierto de Valencia.	None	
+27	516	0	0	2	발렌시아 사막 포건 처치;	Eliminara los Fogans de Desierto de Valencia;	None	
+27	517	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	517	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Eliminar a los Fanáticos de Luna Creciente de Valencia.	None	
+27	517	0	0	2	발렌시아 초승달 광신도 처치;	Eliminar a los Fanáticos de Luna Creciente de Valencia;	None	
+27	518	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	518	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Eliminar a los Nagas de Desierto de Valencia.	None	
+27	518	0	0	2	발렌시아 사막 나가 처치;	Eliminar a los Nagas de Desierto de Valencia;	None	
+27	519	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	519	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3500] Eliminar a los Bandidos de Gahaz de Valencia.	None	
+27	519	0	0	2	발렌시아 가하즈 도적단 처치;	Eliminar a los Bandidos de Gahaz de Valencia;	None	
+27	520	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	520	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminar a los Bashims de Valencia.	None	
+27	520	0	0	2	발렌시아 바심족 처치;	Eliminar a los Bashims de Valencia;	None	
+27	521	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	521	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminar a los Fanáticos de Cadry.	None	
+27	521	0	0	2	발렌시아 카드리 광신도 처치;	Eliminar a los Fanáticos de Cadry;	None	
+27	523	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	523	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminara los Fogans de Desierto de Valencia.	None	
+27	523	0	0	2	발렌시아 사막 포건 처치;	Eliminara los Fogans de Desierto de Valencia;	None	
+27	524	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	524	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminar a los Fanáticos de Luna Creciente de Valencia.	None	
+27	524	0	0	2	발렌시아 초승달 광신도 처치;	Eliminar a los Fanáticos de Luna Creciente de Valencia;	None	
+27	525	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	525	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminar a los Nagas de Desierto de Valencia.	None	
+27	525	0	0	2	발렌시아 사막 나가 처치;	Eliminar a los Nagas de Desierto de Valencia;	None	
+27	526	0	0	0	[토벌] 주민들의 도움 요청	[Valencia] Solicitud de Ayuda de los Aldeanos	None	
+27	526	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4500] Eliminar a los Bandidos de Gahaz de Valencia.	None	
+27	526	0	0	2	발렌시아 가하즈 도적단 처치;	Eliminar a los Bandidos de Gahaz de Valencia;	None	
+27	527	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	527	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2200] Eliminar a los Manes de Mediah.	None	
+27	527	0	0	2	메디아 갈기족 처치;	Eliminar a los Manes de Mediah;	None	
+27	528	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	528	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3000] Eliminar a los Manes de Mediah.	None	
+27	528	0	0	2	메디아 갈기족 처치;	Eliminar a los Manes de Mediah;	None	
+27	529	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	529	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4800] Eliminar a los Manes de Mediah.	None	
+27	529	0	0	2	메디아 갈기족 처치;	Eliminar a los Manes de Mediah;	None	
+27	530	0	0	0	[토벌] 주민들의 도움 요청	[Mediah] Solicitud de Ayuda de los Aldeanos	None	
+27	530	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[6100] Eliminar a los Manes de Mediah.	None	
+27	530	0	0	2	메디아 갈기족 처치;	Eliminar a los Manes de Mediah;	None	
+27	531	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	531	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Fánaticos del Monasterio.	None	
+27	531	0	0	2	수도원의 광신도 처치;	Eliminar a los Fánaticos del Monasterio;	None	
+27	532	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	532	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Fánaticos del Monasterio.	None	
+27	532	0	0	2	수도원의 광신도 처치;	Eliminar a los Fánaticos del Monasterio;	None	
+27	533	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	533	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Fánaticos del Monasterio.	None	
+27	533	0	0	2	수도원의 광신도 처치;	Eliminar a los Fánaticos del Monasterio;	None	
+27	534	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	534	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Fánaticos del Monasterio.	None	
+27	534	0	0	2	수도원의 광신도 처치;	Eliminar a los Fánaticos del Monasterio;	None	
+27	535	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	535	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Fánaticos del Monasterio.	None	
+27	535	0	0	2	수도원의 광신도 처치;	Eliminar a los Fánaticos del Monasterio;	None	
+27	536	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	536	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1000] Eliminar a los Rebeldes del Castillo en Ruinas.	None	
+27	536	0	0	2	폐성터의 반란군 처치;	Eliminar a los Rebeldes del Castillo en Ruinas;	None	
+27	537	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	537	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2500] Eliminar a los Rebeldes del Castillo en Ruinas.	None	
+27	537	0	0	2	폐성터의 반란군 처치;	Eliminar a los Rebeldes del Castillo en Ruinas;	None	
+27	538	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	538	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4000] Eliminar a los Rebeldes del Castillo en Ruinas.	None	
+27	538	0	0	2	폐성터의 반란군 처치;	Eliminar a los Rebeldes del Castillo en Ruinas;	None	
+27	539	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	539	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5500] Eliminar a los Rebeldes del Castillo en Ruinas.	None	
+27	539	0	0	2	폐성터의 반란군 처치;	Eliminar a los Rebeldes del Castillo en Ruinas;	None	
+27	540	0	0	0	[토벌] 주민들의 도움 요청	[Serendia] Solicitud de Ayuda de los Aldeanos	None	
+27	540	0	0	1	세렌디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[7000] Eliminar a los Rebeldes del Castillo en Ruinas.	None	
+27	540	0	0	2	폐성터의 반란군 처치;	Eliminar a los Rebeldes del Castillo en Ruinas;	None	
+27	580	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Eliminar al Jefe] Ferrid	None	
+27	580	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[280] Eliminar a los Ferrids en la Cueva de Lava de Omar.	None	
+27	580	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Eliminar a los Ferrids en la Cueva de Lava de Omar;	None	
+27	581	0	0	0	[우두머리 토벌] 갈기족 소탕작전	[Eliminar al Jefe] Los Manes	None	
+27	581	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Eliminar a los Manes en la Guarida de los Manes.	None	
+27	581	0	0	2	갈기족 소굴에서 갈기족을 처치;	Eliminar a los Manes en la Guarida de los Manes;	None	
+27	582	0	0	0	[우두머리 토벌] 방랑도적 주둔지 토벌작전	[Eliminar al Jefe] Guarida de los Ladrones Vagabundos	None	
+27	582	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Eliminar a los Ladrones Vagabundos en la Guardia del Ladrones Vagabundos.	None	
+27	582	0	0	2	방랑도적 주둔지에서 방랑도적 처치;	Eliminar a los Ladrones Vagabundos en la Guardia del Ladrones Vagabundos;	None	
+27	583	0	0	0	[우두머리 토벌] 마르니 제2 실험터 토벌작전	[Eliminar al Jefe] Laboratorio No.2 de Marni	None	
+27	583	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[250] Eliminar los Experimentos Mutantes en el Laboratorio No.2 de Marni.	None	
+27	583	0	0	2	마르니 제2 실험터의 변종 실험체 처치;	Eliminar los Experimentos Mutantes en el Laboratorio No.2 de Marni;	None	
+27	584	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Eliminar al Jefe] Ferrid	None	
+27	584	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[280] Eliminar a los Ferrids en la Cueva de Lava de Omar.	None	
+27	584	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Eliminar a los Ferrids en la Cueva de Lava de Omar;	None	
+27	585	0	0	0	[우두머리 토벌] 갈기족 소탕작전	[Eliminar al Jefe] Los Manes	None	
+27	585	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Eliminar a los Manes en la Guarida de los Manes.	None	
+27	585	0	0	2	갈기족 소굴에서 갈기족을 처치;	Eliminar a los Manes en la Guarida de los Manes;	None	
+27	586	0	0	0	[우두머리 토벌] 방랑도적 주둔지 토벌작전	[Eliminar al Jefe] Guarida de los Ladrones Vagabundos	None	
+27	586	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Eliminar a los Ladrones Vagabundos en la Guardia del Ladrones Vagabundos.	None	
+27	586	0	0	2	방랑도적 주둔지에서 방랑도적 처치;	Eliminar a los Ladrones Vagabundos en la Guardia del Ladrones Vagabundos;	None	
+27	587	0	0	0	[우두머리 토벌] 마르니 제2 실험터 토벌작전	[Eliminar al Jefe] Laboratorio No.2 de Marni	None	
+27	587	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[250] Eliminar los Experimentos Mutantes en el Laboratorio No.2 de Marni.	None	
+27	587	0	0	2	마르니 제2 실험터의 변종 실험체 처치;	Eliminar los Experimentos Mutantes en el Laboratorio No.2 de Marni;	None	
+27	588	0	0	0	[우두머리 토벌] 페리드 소탕작전	[Eliminar al Jefe] Ferrid	None	
+27	588	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[280] Eliminar a los Ferrids en la Cueva de Lava de Omar.	None	
+27	588	0	0	2	오마르 용암 동굴의 페리드들을 처치;	Eliminar a los Ferrids en la Cueva de Lava de Omar;	None	
+27	589	0	0	0	[우두머리 토벌] 갈기족 소탕작전	[Eliminar al Jefe] Los Manes	None	
+27	589	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Eliminar a los Manes en la Guarida de los Manes.	None	
+27	589	0	0	2	갈기족 소굴에서 갈기족을 처치;	Eliminar a los Manes en la Guarida de los Manes;	None	
+27	590	0	0	0	[우두머리 토벌] 방랑도적 주둔지 토벌작전	[Eliminar al Jefe] Guarida de los Ladrones Vagabundos	None	
+27	590	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Eliminar a los Ladrones Vagabundos en la Guardia del Ladrones Vagabundos.	None	
+27	590	0	0	2	방랑도적 주둔지에서 방랑도적 처치;	Eliminar a los Ladrones Vagabundos en la Guardia del Ladrones Vagabundos;	None	
+27	591	0	0	0	[우두머리 토벌] 마르니 제2 실험터 토벌작전	[Eliminar al Jefe] Laboratorio No.2 de Marni	None	
+27	591	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[250] Eliminar los Experimentos Mutantes en el Laboratorio No.2 de Marni.	None	
+27	591	0	0	2	마르니 제2 실험터의 변종 실험체 처치;	Eliminar los Experimentos Mutantes en el Laboratorio No.2 de Marni;	None	
+27	592	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Solicitud de Ayuda de los Aldeanos	None	
+27	592	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2] Eliminar a los Monstruos del Mar de Margoria.	None	
+27	592	0	0	2	마고리아 해양 몬스터 처치;	Eliminar a los Monstruos del Mar de Margoria;	None	
+27	593	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Solicitud de Ayuda de los Aldeanos	None	
+27	593	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3] Eliminar a los Monstruos del Mar de Margoria.	None	
+27	593	0	0	2	마고리아 해양 몬스터 처치;	Eliminar a los Monstruos del Mar de Margoria;	None	
+27	594	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Solicitud de Ayuda de los Aldeanos	None	
+27	594	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[4] Eliminar a los Monstruos del Mar de Margoria.	None	
+27	594	0	0	2	마고리아 해양 몬스터 처치;	Eliminar a los Monstruos del Mar de Margoria;	None	
+27	595	0	0	0	[토벌] 주민들의 도움 요청	[Margoria] Solicitud de Ayuda de los Aldeanos	None	
+27	595	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[5] Eliminar a los Monstruos del Mar de Margoria.	None	
+27	595	0	0	2	마고리아 해양 몬스터 처치;	Eliminar a los Monstruos del Mar de Margoria;	None	
+27	596	0	0	0	[토벌] 주민들의 도움 요청 I	[Margoria] Solicitud de Ayuda de los Aldeanos I	None	
+27	596	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1] Eliminar a Hekaru. [1] Eliminar al Rastreador del Océano.	None	
+27	596	0	0	2	헤카루 처치;표류추적자 처치;	Eliminar a Hekaru;Eliminar al Rastreador del Océano;	None	
+27	597	0	0	0	[토벌] 주민들의 도움 요청 II	[Margoria] Solicitud de Ayuda de los Aldeanos II	None	
+27	597	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2] Eliminar a Hekaru. [1] Eliminar a Nineshark.	None	
+27	597	0	0	2	헤카루 처치;나인샤크 처치;	Eliminar a Hekaru;Eliminar a Nineshark;	None	
+27	598	0	0	0	[토벌] 주민들의 도움 요청 III	[Margoria] Solicitud de Ayuda de los Aldeanos III	None	
+27	598	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2] Eliminar al Rastreador del Océano. [2] Eliminar a Kandidum.	None	
+27	598	0	0	2	표류추적자 처치;칸디둠 처치;	Eliminar al Rastreador del Océano;Eliminar a Kandidum;	None	
+27	599	0	0	0	[토벌] 주민들의 도움 요청 IV	[Margoria] Solicitud de Ayuda de los Aldeanos IV	None	
+27	599	0	0	1	마고리아 해의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2] Eliminar a Kandidum. [2] Eliminar a Nineshark. [1] Eliminar a Dientes Negros de Hierro.	None	
+27	599	0	0	2	칸디둠 처치;나인샤크 처치;검은무쇠이빨 처치;	Eliminar a Kandidum;Eliminar a Nineshark;Eliminar a Dientes Negros de Hierro;	None	
+27	1001	0	0	0	[우두머리 토벌] 병사의 무덤 소탕작전	[Eliminar al Jefe] Tumba del Soldado	None	
+27	1001	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[750] Eliminar a los Esqueletos Enloquecidos en la Tumba del Soldado.	None	
+27	1001	0	0	2	병사의 무덤에서 광기의 해골들 처치;	Eliminar a los Esqueletos Enloquecidos en la Tumba del Soldado;	None	
+27	1002	0	0	0	[우두머리 토벌] 폐철광산 소탕작전	[Eliminar al Jefe] Mina Abandonada	None	
+27	1002	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Eliminar a los Bárbaros en la Mina Abandonada.	None	
+27	1002	0	0	2	폐철광산의 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada;	None	
+27	1005	0	0	0	[우두머리 토벌] 하스라 고대 유적지 토벌작전	[Eliminar al Jefe] Ruinas Ancestrales de Hasrah	None	
+27	1005	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[750] Eliminar las Armas Ancestrales en la Ruina Ancestral de Hasrah.	None	
+27	1005	0	0	2	하스라 고대 유적지에서 고대 병기 처치;	Eliminar las Armas Ancestrales en la Ruina Ancestral de Hasrah;	None	
+27	1006	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Eliminar al Jefe] Campamento Sausan	None	
+27	1006	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Eliminar a los Sausans en el Campamento Sausan.	None	
+27	1006	0	0	2	소산 주둔지의 소산족 처치;	Eliminar a los Sausans en el Campamento Sausan;	None	
+27	1009	0	0	0	[우두머리 토벌] 병사의 무덤 소탕작전	[Eliminar al Jefe] Tumba del Soldado	None	
+27	1009	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[750] Eliminar a los Esqueletos Enloquecidos en la Tumba del Soldado.	None	
+27	1009	0	0	2	병사의 무덤에서 광기의 해골들 처치;	Eliminar a los Esqueletos Enloquecidos en la Tumba del Soldado;	None	
+27	1010	0	0	0	[우두머리 토벌] 폐철광산 소탕작전	[Eliminar al Jefe] Mina Abandonada	None	
+27	1010	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Eliminar a los Bárbaros en la Mina Abandonada.	None	
+27	1010	0	0	2	폐철광산의 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada;	None	
+27	1013	0	0	0	[우두머리 토벌] 하스라 고대 유적지 토벌작전	[Eliminar al Jefe] Ruinas Ancestrales de Hasrah	None	
+27	1013	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[750] Eliminar las Armas Ancestrales en la Ruina Ancestral de Hasrah.	None	
+27	1013	0	0	2	하스라 고대 유적지에서 고대 병기 처치;	Eliminar las Armas Ancestrales en la Ruina Ancestral de Hasrah;	None	
+27	1014	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Eliminar al Jefe] Campamento Sausan	None	
+27	1014	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Eliminar a los Sausans en el Campamento Sausan.	None	
+27	1014	0	0	2	소산 주둔지의 소산족 처치;	Eliminar a los Sausans en el Campamento Sausan;	None	
+27	1017	0	0	0	[우두머리 토벌] 병사의 무덤 소탕작전	[Eliminar al Jefe] Tumba del Soldado	None	
+27	1017	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[750] Eliminar a los Esqueletos Enloquecidos en la Tumba del Soldado.	None	
+27	1017	0	0	2	병사의 무덤에서 광기의 해골들 처치;	Eliminar a los Esqueletos Enloquecidos en la Tumba del Soldado;	None	
+27	1018	0	0	0	[우두머리 토벌] 폐철광산 소탕작전	[Eliminar al Jefe] Mina Abandonada	None	
+27	1018	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Eliminar a los Bárbaros en la Mina Abandonada.	None	
+27	1018	0	0	2	폐철광산의 야만족 처치;	Eliminar a los Bárbaros en la Mina Abandonada;	None	
+27	1021	0	0	0	[우두머리 토벌] 하스라 고대 유적지 토벌작전	[Eliminar al Jefe] Ruinas Ancestrales de Hasrah	None	
+27	1021	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[750] Eliminar las Armas Ancestrales en la Ruina Ancestral de Hasrah.	None	
+27	1021	0	0	2	하스라 고대 유적지에서 고대 병기 처치;	Eliminar las Armas Ancestrales en la Ruina Ancestral de Hasrah;	None	
+27	1022	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Eliminar al Jefe] Campamento Sausan	None	
+27	1022	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Eliminar a los Sausans en el Campamento Sausan.	None	
+27	1022	0	0	2	소산 주둔지의 소산족 처치;	Eliminar a los Sausans en el Campamento Sausan;	None	
