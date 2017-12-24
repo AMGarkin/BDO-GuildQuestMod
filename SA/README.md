@@ -1,4 +1,4 @@
-# BDO-GuildQuestMod
+# BDO-GuildQuestMod SA
 Slightly modified texts for Black Desert Online SA client. It adds more detailed Guild Mission descriptions to Guild window. See [preview1.jpg](https://github.com/AMGarkin/BDO-GuildQuestMod/blob/master/preview/preview1.jpg) and [preview2.jpg](https://github.com/AMGarkin/BDO-GuildQuestMod/blob/master/preview/preview2.jpg).
 
 ### Installation:
