@@ -15,7 +15,7 @@ After each new patch just run updateLangData_SEA.cmd again to update texts.
 
 ### Uninstallation:
 - Either make backup of original localization file or download original files from address:<br>
-http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_en.loc
+http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_en.loc<br>
 http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_id.loc
 
 
@@ -23,6 +23,6 @@ http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_id.loc
 Launcher checks if version of localization files stored in text file \<game folder\>\\ads_version is the same as latest version available on the internet here:<br>
 http://dn.sea.playblackdesert.com/UploadData/ads_version<br>
 If version is different, it will download the latest files from the address:<br>
-http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_en.loc
-http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_id.loc
+http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_en.loc<br>
+http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_id.loc<br>
 http://dn.sea.playblackdesert.com/UploadData/ads/languagedata_id_en.loc
