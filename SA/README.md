@@ -3,7 +3,7 @@ Slightly modified texts for Black Desert Online SA client. It adds more detailed
 
 ### Installation:
 1) Prepare tools:
-- copy updateLangData_SA.cmd and *.txt files from this folder to game folder (C:\Program Files (x86)\BlackDesert\\\*.\*)
+- copy updateLangData_SA.cmd and *.txt files from this folder to game folder (C:\Pearlabyss\BlackDesert\\\*.\*)
 - extract BDO_decrypt.exe and BDO_encrypt.exe from [BDOcrypt_v1.0.zip](https://github.com/AMGarkin/BDOcrypt/releases/download/1.0/BDOcrypt_v1.0.zip) to the game folder
 - extract ReplaceLanguage.exe from [ReplaceLanguage_v1.0.zip](https://github.com/AMGarkin/ReplaceLanguage/releases/download/1.0a/ReplaceLanguage_v1.0.zip) also to the game folder
 2) Run updateLangData_SA.cmd ?? to replace localized texts with texts in replace_??.txt.
