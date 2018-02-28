@@ -889,3 +889,39 @@
 27	1022	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Boss - Moraster] Bezwingung der Sausan-Garnison	Current
 27	1022	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[600] Tötet die Sausan in der Sausan-Garnison.	Current
 27	1022	0	0	2	소산 주둔지의 소산족 처치;	Tötet die Sausan in der Sausan-Garnison;	Current
+27	1023	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos-Saunil	Valencia2
+27	1023	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[300] Besiegt die Argos-Saunil beim Halbmondschrein.	Valencia2
+27	1023	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Besiegt die Argos-Saunil beim Halbmondschrein;	Valencia2
+27	1024	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Wüstennaga	Valencia2
+27	1024	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[480] Bezwingt die Wüstennagas im Wüstennagaschrein.	Valencia2
+27	1024	0	0	2	사막 나가 신전의 사막 나가 처치;	Bezwingt die Wüstennagas im Wüstennagaschrein;	Valencia2
+27	1025	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Wüstenfogan	Valencia2
+27	1025	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[450] Bezwingt die Wüstenfogans im Tal von Titium.	Valencia2
+27	1025	0	0	2	티티움 계곡의 사막 포건 처치;	Bezwingt die Wüstenfogans im Tal von Titium;	Valencia2
+27	1026	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos-Saunil	Valencia2
+27	1026	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[555] Besiegt die Argos-Saunil beim Halbmondschrein.	Valencia2
+27	1026	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Besiegt die Argos-Saunil beim Halbmondschrein;	Valencia2
+27	1027	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Wüstennaga	Valencia2
+27	1027	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[888] Bezwingt die Wüstennagas im Wüstennagaschrein.	Valencia2
+27	1027	0	0	2	사막 나가 신전의 사막 나가 처치;	Bezwingt die Wüstennagas im Wüstennagaschrein;	Valencia2
+27	1028	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Wüstenfogan	Valencia2
+27	1028	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[832] Bezwingt die Wüstenfogans im Tal von Titium.	Valencia2
+27	1028	0	0	2	티티움 계곡의 사막 포건 처치;	Bezwingt die Wüstenfogans im Tal von Titium;	Valencia2
+27	1029	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos-Saunil	Valencia2
+27	1029	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1026] Besiegt die Argos-Saunil beim Halbmondschrein.	Valencia2
+27	1029	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Besiegt die Argos-Saunil beim Halbmondschrein;	Valencia2
+27	1030	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Wüstennaga	Valencia2
+27	1030	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1642] Bezwingt die Wüstennagas im Wüstennagaschrein.	Valencia2
+27	1030	0	0	2	사막 나가 신전의 사막 나가 처치;	Bezwingt die Wüstennagas im Wüstennagaschrein;	Valencia2
+27	1031	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Wüstenfogan	Valencia2
+27	1031	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1539] Bezwingt die Wüstenfogans im Tal von Titium.	Valencia2
+27	1031	0	0	2	티티움 계곡의 사막 포건 처치;	Bezwingt die Wüstenfogans im Tal von Titium;	Valencia2
+27	1032	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos-Saunil	Valencia2
+27	1032	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[1898] Besiegt die Argos-Saunil beim Halbmondschrein.	Valencia2
+27	1032	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Besiegt die Argos-Saunil beim Halbmondschrein;	Valencia2
+27	1033	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Wüstennaga	Valencia2
+27	1033	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[3037] Bezwingt die Wüstennagas im Wüstennagaschrein.	Valencia2
+27	1033	0	0	2	사막 나가 신전의 사막 나가 처치;	Bezwingt die Wüstennagas im Wüstennagaschrein;	Valencia2
+27	1034	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Wüstenfogan	Valencia2
+27	1034	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	[2847] Bezwingt die Wüstenfogans im Tal von Titium.	Valencia2
+27	1034	0	0	2	티티움 계곡의 사막 포건 처치;	Bezwingt die Wüstenfogans im Tal von Titium;	Valencia2
