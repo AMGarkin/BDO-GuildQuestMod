@@ -889,3 +889,39 @@
 27	1022	0	0	0	[우두머리 토벌] 소산 주둔지 토벌작전	[Boss - Mudster] Sausan Garrison Elimination	Current
 27	1022	0	0	1	메디아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Kill the Sausans at the Sausan Garrison (600).	Current
 27	1022	0	0	2	소산 주둔지의 소산족 처치;	Kill the Sausans at the Sausan Garrison;	Current
+27	1023	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos Saunil Elimination	Valencia2	
+27	1023	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Argos Saunil at Crescent Shrine (300).	Valencia2	
+27	1023	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Defeat the Argos Saunil at Crescent Shrine;	Valencia2	
+27	1024	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Desert Naga Elimination	Valencia2	
+27	1024	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Nagas at Desert Naga Shrine (480).	Valencia2	
+27	1024	0	0	2	사막 나가 신전의 사막 나가 처치;	Defeat the Desert Nagas at Desert Naga Shrine;	Valencia2	
+27	1025	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Desert Fogan Elimination	Valencia2	
+27	1025	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Fogans at Titium Valley (450).	Valencia2	
+27	1025	0	0	2	티티움 계곡의 사막 포건 처치;	Defeat the Desert Fogans at Titium Valley;	Valencia2	
+27	1026	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos Saunil Elimination	Valencia2	
+27	1026	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Argos Saunil at Crescent Shrine (555).	Valencia2	
+27	1026	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Defeat the Argos Saunil at Crescent Shrine;	Valencia2	
+27	1027	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Desert Naga Elimination	Valencia2	
+27	1027	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Nagas at Desert Naga Shrine (888).	Valencia2	
+27	1027	0	0	2	사막 나가 신전의 사막 나가 처치;	Defeat the Desert Nagas at Desert Naga Shrine;	Valencia2	
+27	1028	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Desert Fogan Elimination	Valencia2	
+27	1028	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Fogans at Titium Valley (832).	Valencia2	
+27	1028	0	0	2	티티움 계곡의 사막 포건 처치;	Defeat the Desert Fogans at Titium Valley;	Valencia2	
+27	1029	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos Saunil Elimination	Valencia2	
+27	1029	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Argos Saunil at Crescent Shrine (1026).	Valencia2	
+27	1029	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Defeat the Argos Saunil at Crescent Shrine;	Valencia2	
+27	1030	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Desert Naga Elimination	Valencia2	
+27	1030	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Nagas at Desert Naga Shrine (1642).	Valencia2	
+27	1030	0	0	2	사막 나가 신전의 사막 나가 처치;	Defeat the Desert Nagas at Desert Naga Shrine;	Valencia2	
+27	1031	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Desert Fogan Elimination	Valencia2	
+27	1031	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Fogans at Titium Valley (1539).	Valencia2	
+27	1031	0	0	2	티티움 계곡의 사막 포건 처치;	Defeat the Desert Fogans at Titium Valley;	Valencia2	
+27	1032	0	0	0	[우두머리 토벌] 아르고스 사우닐 토벌작전	[Boss - Puturum] Argos Saunil Elimination	Valencia2	
+27	1032	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Argos Saunil at Crescent Shrine (1898).	Valencia2	
+27	1032	0	0	2	초승달 신전의 아르고스 사우닐 처치;	Defeat the Argos Saunil at Crescent Shrine;	Valencia2	
+27	1033	0	0	0	[우두머리 토벌] 사막 나가 토벌작전	[Boss - Puturum] Desert Naga Elimination	Valencia2	
+27	1033	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Nagas at Desert Naga Shrine (3037).	Valencia2	
+27	1033	0	0	2	사막 나가 신전의 사막 나가 처치;	Defeat the Desert Nagas at Desert Naga Shrine;	Valencia2	
+27	1034	0	0	0	[우두머리 토벌] 사막 포건 토벌작전	[Boss - Puturum] Desert Fogan Elimination	Valencia2	
+27	1034	0	0	1	발렌시아 영지의 주민들에게 긴급한 의뢰가 들어왔다. 강력한 몬스터들이  주민들을 위협하고 있다는 것. 이에 강력한 길드의 힘이 필요하다고 한다. 최정예 길드원과 함께 우리 길드의 힘으로 주민들을 위협에서 도와주자.	Defeat the Desert Fogans at Titium Valley (2847).	Valencia2	
+27	1034	0	0	2	티티움 계곡의 사막 포건 처치;	Defeat the Desert Fogans at Titium Valley;	Valencia2	
