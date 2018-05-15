@@ -5,10 +5,13 @@ IF [%1]==[de] GOTO DE
 IF [%1]==[DE] GOTO DE
 IF [%1]==[fr] GOTO FR
 IF [%1]==[FR] GOTO FR
+IF [%1]==[sp] GOTO SP
+IF [%1]==[SP] GOTO SP
 
 CALL :MAIN en
 CALL :MAIN de
 CALL :MAIN fr
+CALL :MAIN sp
 GOTO:eof
 
 :EN
@@ -21,6 +24,10 @@ GOTO:eof
 
 :FR
 CALL :MAIN fr
+GOTO:eof
+
+:SP
+CALL :MAIN sp
 GOTO:eof
 
 
