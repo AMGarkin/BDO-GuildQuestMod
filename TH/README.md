@@ -4,8 +4,8 @@ Slightly modified texts for Black Desert Online TH client. It adds more detailed
 ### Installation:
 1) Prepare tools:
 - copy updateLangData_TH.cmd and replace_??.txt files from this folder to game folder (C:\Pearlabyss\BlackDesert\\\*.\*)
-- extract BDO_decrypt.exe and BDO_encrypt.exe from [BDOcrypt_v2.0.zip](https://github.com/AMGarkin/BDOcrypt/releases/download/2.0/BDOcrypt_v2.0.zip) to the game folder
-- extract ReplaceLanguage.exe from [ReplaceLanguage_v2.0.zip](https://github.com/AMGarkin/ReplaceLanguage/releases/download/2.0/ReplaceLanguage_v2.0.zip) also to the game folder
+- extract BDO_decrypt.exe and BDO_encrypt.exe from the latest [BDOcrypt release](https://github.com/AMGarkin/BDOcrypt/releases/latest) to the game folder
+- extract ReplaceLanguage.exe from the latest [ReplaceLanguage release](https://github.com/AMGarkin/ReplaceLanguage/releases/latest) also to the game folder
 2) Run updateLangData_TH.cmd to replace localized texts with texts in replace_??.txt.
 - ?? is an optional parameter language code - EN or TH. If you use parameter it will replace texts only for specified language (it will be a bit faster), no parameter means replace texts for both languages.
 3) Run (or restart) the game
