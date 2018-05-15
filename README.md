@@ -6,8 +6,8 @@ Slightly modified texts for Black Desert Online NA/EU client. It adds more detai
 - copy updateLangData.cmd and *.txt files from this folder to game folder (C:\Program Files (x86)\Black Desert Online\\\*.\*)
 - extract BDO_decrypt.exe and BDO_encrypt.exe from [BDOcrypt_v2.0.zip](https://github.com/AMGarkin/BDOcrypt/releases/download/2.0/BDOcrypt_v2.0.zip) to the game folder
 - extract ReplaceLanguage.exe from [ReplaceLanguage_v2.0.zip](https://github.com/AMGarkin/ReplaceLanguage/releases/download/2.0/ReplaceLanguage_v2.0.zip) also to the game folder
-2) Run updateLangData.cmd ?? to replace localized texts with texts in replace_??.txt.
-- ?? is optional parameter language code - en, de or fr. If you use parameter it will replace texts only for specified language (it will be a bit faster), no parameter means replace texts for all 3 languages.
+2) Run updateLangData.cmd ?? to replace localized texts with texts in replace_??.txt. I recommend running tools as Administrator, if tools have insufficient access rights, new files won't be created at all or will be empty.
+- ?? is optional parameter language code - EN, DE or FR. If you use parameter it will replace texts only for specified language (it will be a bit faster), no parameter means replace texts for all 3 languages. (There is support for SP in updateLangData.cmd, but I didn't create replace_sp.txt yet. Anyone knows Spanish language?)
 3) Run (or restart) the game
 
 After each new patch just run updateLangData.cmd again to update texts.
